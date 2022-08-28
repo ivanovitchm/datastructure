@@ -24,7 +24,7 @@
 ### Lessons
 
 **Week 01**: Course Outline [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week_01/course_outline.pdf)
-- Python for Data Engineering: Fundamentals Part I
+- Python for Data Engineering: Fundamentals Part I ![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://www.dataquest.io/course/python-fundamentals-de/)
     - You'll learn the fundamentals of programming with Python for data engineers: a) Processing numerical data and text data, b) Performing basic Python operations such as creating variables and lists, c) Analyzing data using for loops, d) Writing conditional statements and using comparison operators.
     - :hourglass_flowing_sand: Estimated time: 6h
 - Git and Version Control [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://www.dataquest.io/course/git-and-vcs/)
