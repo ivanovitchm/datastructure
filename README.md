@@ -35,3 +35,12 @@
     - Google Colab Introduction [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/8a4f0d34b3cb4d9ea04b6dcf0b3d1aca)
     - Google Colab Cont. [optional] [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/d96cb0af7d9c4416bfe8145c93248a11) [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_01/Python_Tutorial.ipynb)
     - :hourglass_flowing_sand: Estimated time: 2h
+
+**Week 02**: A brief introduction to data structure in Python
+- Python for Data Engineering: Fundamentals Part II [![Open in Dataquest](https://www.dataquest.io/course/python-fundamentals-de-ii/)
+    - You will see: a) refining fundamental Python knowledge for data engineering; b) introducing basic Python concepts like dictionaries, functions, and default arguments; c) building proficiency in the use of Jupyter Notebook; d) practical application of your newly acquired data skills in a data project for your portfolio.
+    - :hourglass_flowing_sand: Estimated time: 10h
+- Object Oriented Programming (OOP) introduction [![Open in Dataquest](https://app.dataquest.io/c/78/m/435/object-oriented-python/1/introduction)
+    - :hourglass_flowing_sand: Estimated time: 3h
+- OOP practice problems [![Open in Dataquest](https://app.dataquest.io/m/1000352/object-oriented-python-practice-problems/1/practice-problems-for-object-oriented-python) 
+    - :hourglass_flowing_sand: Estimated time: 1.5h
