@@ -37,10 +37,10 @@
     - :hourglass_flowing_sand: Estimated time: 2h
 
 **Week 02**: A brief introduction to data structure in Python
-- Python for Data Engineering: Fundamentals Part II [![Open in Dataquest](https://www.dataquest.io/course/python-fundamentals-de-ii/)
+- Python for Data Engineering: Fundamentals Part II [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://www.dataquest.io/course/python-fundamentals-de-ii/)
     - You will see: a) refining fundamental Python knowledge for data engineering; b) introducing basic Python concepts like dictionaries, functions, and default arguments; c) building proficiency in the use of Jupyter Notebook; d) practical application of your newly acquired data skills in a data project for your portfolio.
     - :hourglass_flowing_sand: Estimated time: 10h
-- Object Oriented Programming (OOP) introduction [![Open in Dataquest](https://app.dataquest.io/c/78/m/435/object-oriented-python/1/introduction)
+- Object Oriented Programming (OOP) introduction [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://app.dataquest.io/c/78/m/435/object-oriented-python/1/introduction)
     - :hourglass_flowing_sand: Estimated time: 3h
-- OOP practice problems [![Open in Dataquest](https://app.dataquest.io/m/1000352/object-oriented-python-practice-problems/1/practice-problems-for-object-oriented-python) 
+- OOP practice problems [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://app.dataquest.io/m/1000352/object-oriented-python-practice-problems/1/practice-problems-for-object-oriented-python) 
     - :hourglass_flowing_sand: Estimated time: 1.5h
