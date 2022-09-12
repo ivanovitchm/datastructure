@@ -44,3 +44,5 @@
     - :hourglass_flowing_sand: Estimated time: 3h
 - OOP practice problems [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://app.dataquest.io/m/1000352/object-oriented-python-practice-problems/1/practice-problems-for-object-oriented-python) 
     - :hourglass_flowing_sand: Estimated time: 1.5h
+
+**Week 03**: Complexity Algorithm I [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week_01/course_outline.pdf)
