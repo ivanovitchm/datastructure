@@ -45,4 +45,8 @@
 - OOP practice problems [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://app.dataquest.io/m/1000352/object-oriented-python-practice-problems/1/practice-problems-for-object-oriented-python) 
     - :hourglass_flowing_sand: Estimated time: 1.5h
 
-**Week 03**: Complexity Algorithm I [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week_01/course_outline.pdf)
+**Week 03**: Complexity Algorithm I [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_03/Complexity%20of%20Algorithms%20Part%20I.pdf)
+- Challenge template [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_03/twonumbersum.ipynb)
+- Time Complexity of Algorithms [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://app.dataquest.io/c/86/m/476) 
+    - you will learn how: a) measure the execution time of a algorithm; b) generate random inputs for an algorithm; c) model the execution time of an algorithm.
+    - :hourglass_flowing_sand: Estimated time: 1h
