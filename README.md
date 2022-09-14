@@ -46,6 +46,9 @@
     - :hourglass_flowing_sand: Estimated time: 1.5h
 
 **Week 03**: Complexity Algorithm I [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_03/Complexity%20of%20Algorithms%20Part%20I.pdf)
+- Exercises [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_03/Exercise%20Complexity%20of%20Algorithms%20Part%20I.pdf)
+    - Part I [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/f1102929b7b241e5b0285b23bc763f34)
+    - Part II [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/08c2c3ec22e5484b9b5342e16e019cd4)
 - Challenge template [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_03/twonumbersum.ipynb)
 - Time Complexity of Algorithms [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://app.dataquest.io/c/86/m/476) 
     - you will learn how: a) measure the execution time of a algorithm; b) generate random inputs for an algorithm; c) model the execution time of an algorithm.
