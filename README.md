@@ -53,3 +53,5 @@
 - Time Complexity of Algorithms [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://app.dataquest.io/c/86/m/476) 
     - you will learn how: a) measure the execution time of a algorithm; b) generate random inputs for an algorithm; c) model the execution time of an algorithm.
     - :hourglass_flowing_sand: Estimated time: 1h
+- Constant Time Complexity [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://app.dataquest.io/c/86/m/477)
+    - you will learn: a) Identify constant time operations; b) Identify how computers manage memory; c) Refine computing time complexity models; d) Identify hidden function calls in Python. e) Identify how lists and strings are stored in memory.
