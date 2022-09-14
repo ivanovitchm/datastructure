@@ -57,3 +57,4 @@
 - Constant Time Complexity [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://app.dataquest.io/c/86/m/477)
     - you will learn: a) Identify constant time operations; b) Identify how computers manage memory; c) Refine computing time complexity models; d) Identify hidden function calls in Python. e) Identify how lists and strings are stored in memory.
     - :hourglass_flowing_sand: Estimated time: 2h
+- Case Studies [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_03/Case%20Study.pdf)
