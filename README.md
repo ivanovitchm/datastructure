@@ -64,3 +64,5 @@
     - Big $O$ notation [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/d2353c742cdd473d9e301b7e5d09adcc)
     - Big $\Omega$ notation [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/4d26d820ccb8415986ed74b5ee192a90)
     - Big $\Theta$ notation [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/bf386884b89545e79323cfe773d21070)
+- Logarithmic time complexity [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_04/Log%20Complexity.pdf)
+    - Binary search algorithm [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_04/binarySearch.ipynb)
