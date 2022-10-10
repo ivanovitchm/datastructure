@@ -74,3 +74,16 @@
     - Selection Sort [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://app.dataquest.io/c/86/m/479) [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_04/selection_sort.ipynb)
         - you will learn: a) apply a sorting algorithm; b) identify the time complexity of sorting in Python.
         - :hourglass_flowing_sand: Estimated time: 1h
+
+**Week 05, 06**: Project I
+
+**Week 07**: Network Elements 
+- Part 01 [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_07/Network%20Elements.pdf)
+- Part 02 [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_07/Network%20Elements.pdf)
+    - Basic Definitions [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/aa7b736bc2b24d599efa7b24d96edc72)
+    - Extended Graphs [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/8646b007d7ac4aa485430a3a7c487480)
+    - Density, Sparsity and Subnetworks [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/49175fd385d94ae58831921cd53f715c)
+    - Degree and Network Representation [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/bcaf192f492a413984d7b183edf06ce2)
+    - :hourglass_flowing_sand: Estimated time: 2h
+- Hands on
+    - Network elements using networkx and graph-tool
