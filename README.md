@@ -90,3 +90,4 @@
 
 **Week 08**: Network Elements II
 - Exercise [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week_08)
+    - :hourglass_flowing_sand: Estimated time: 6h
