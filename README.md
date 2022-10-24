@@ -91,3 +91,7 @@
 **Week 08**: Network Elements II
 - Exercise [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week_08)
     - :hourglass_flowing_sand: Estimated time: 6h
+
+**Week 09**: Small Worlds 
+- Any two people in the world are connected by a short chain of acquaintances [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_09/Small_Worlds.pdf)
+- The art of seeing networks [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week_07/notebooks)
