@@ -94,4 +94,6 @@
 
 **Week 09**: Small Worlds 
 - Any two people in the world are connected by a short chain of acquaintances [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_09/Small_Worlds.pdf)
-- The art of seeing networks [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week_07/notebooks)
+    - The art of seeing networks [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_09/NetworkX.ipynb)
+    - Assortativity [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/7a3a7eaae9e44647964d178fb1c4ba11) [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_09/Assortativity.ipynb)
+    - Paths, Walks and Distances [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/13971a7aae1f464795bdb81905a6f852) [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_09/Walks%2C%20Paths%20and%20Distances.ipynb)
