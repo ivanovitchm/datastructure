@@ -100,3 +100,7 @@
     - Connected Components [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/d3b458a9a1b44f21b27990f0ca1c90ac) [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_09/Connected%20Components.ipynb)
     - Clustering Coefficient [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/fc1d094f07a2479bbd8c8435d9e589a8) [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_09/Clustering%20Coefficient.ipynb)
 - :hourglass_flowing_sand: Estimated time: 6h
+
+**Week 10**: Exercise
+Exercise [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week_10)
+    - :hourglass_flowing_sand: Estimated time: 1h
