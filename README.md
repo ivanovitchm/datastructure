@@ -104,3 +104,14 @@
 **Week 10**: Exercise
 - Airport network [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week_10)
     - :hourglass_flowing_sand: Estimated time: 1h
+
+
+**Week 11**: Hubs [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_03/Complexity%20of%20Algorithms%20Part%20I.pdf)
+- Eccentricity, Diameter, Periphery, Radius and Center [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/7bdab04747ce49ff98ca9f991d511978)
+- Degree, Closeness, Betweenness and Eigenvector Centrality [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/039a3d57a06e4c47bf6bd1b8adbf6300)
+- Centrality Distributions Part 01 [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/bf872720783f40b1b3f28d8af570471e)
+- Centrality Distributions Part 02 [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/abfabef54a3d4f2a9f13983162316566)
+- Core Decomposition Part 01 [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/993ec5820cf84c51a05265039ada73ba)
+- Core Decomposition Part 02 [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/136fb42644c8422580c0a9150a04fd6e)
+- Hands on hubs [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_09/Clustering%20Coefficient.ipynb)
+- :hourglass_flowing_sand: Estimated time: 3h
