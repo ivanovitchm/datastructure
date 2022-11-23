@@ -122,4 +122,4 @@
 - Collecting data from a snowballing process [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/c1d3ed455c974439bf500eade40d030e)
 - Truncate and eliminate duplicates  [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/4fcb0f921d5e4812adc33942f789aa00)
 - Exploring the network data  [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/009e451c9cdd4749aacbc86749a73b79)
-- Hands on [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_11/Wikipedia.ipynb)
+- Hands on [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_12/Wikipedia.ipynb)
