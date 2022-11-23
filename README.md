@@ -115,3 +115,11 @@
 - Core Decomposition Part 02 [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/136fb42644c8422580c0a9150a04fd6e)
 - Hands on hubs [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_11/Hubs.ipynb)
 - :hourglass_flowing_sand: Estimated time: 3h
+
+
+**Week 12**: Directed networks: case study of Wikipedia pages
+- Building a networking from Wikipedia pages [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/9624692db8694441b0bc5fa44148e8ad)
+- Collecting data from a snowballing process [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/c1d3ed455c974439bf500eade40d030e)
+- Truncate and eliminate duplicates  [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/4fcb0f921d5e4812adc33942f789aa00)
+- Exploring the network data  [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/009e451c9cdd4749aacbc86749a73b79)
+- Hands on [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_11/Wikipedia.ipynb)
