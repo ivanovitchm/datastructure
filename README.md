@@ -125,3 +125,13 @@
 - Hands on [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_12/Wikipedia.ipynb)
 - Building a Data Pipeline using Direct Acyclic Graph (DAG) [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://www.dataquest.io/course/building-a-data-pipeline/) 
     - :hourglass_flowing_sand: Estimated time: 6-8h
+
+**Week 13**: Gephi - The Open Graph Viz Platform
+- A brief overview about Gephi  [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/e7b1560a84c645ee99fe80b30e6a5caa)
+- Quick start [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/a3416dc8071a496da9401ba8b12c7cee)
+- Using layouts [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/cbb5f0584b7b4ff7b5e212947a561dbf)
+- Node and network measures [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/5bfe7725770147e8be0aa8a5c673870b)
+- Visualize and filtering nodes and communities [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/60d48ccf7476493d8877baf00c87f314)
+- Renderize, export the network, and highlight a community [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/a966d2f9f2044540acc057e44d491030)
+- Deploy the network into an HTML page [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/9abdeed71c8d4092880e00f6ca0886f8)
+
