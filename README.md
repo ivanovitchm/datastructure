@@ -133,5 +133,6 @@
 - Node and network measures [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/5bfe7725770147e8be0aa8a5c673870b)
 - Visualize and filtering nodes and communities [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/60d48ccf7476493d8877baf00c87f314)
 - Renderize, export the network, and highlight a community [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/a966d2f9f2044540acc057e44d491030)
-- Deploy the network into an HTML page [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/9abdeed71c8d4092880e00f6ca0886f8)
+- Deploy the network into an HTML page [![Open in Loom](https://img.shields.io/badge/webpage-open%20here-green)]( https://ivanovitchm.github.io/netdeploy/network) [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/9abdeed71c8d4092880e00f6ca0886f8)
+- Another way to publish your network to the web using Retina and Gephisto [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/e7702f97f2ed49d0ace0bd8b64187e02)
 
