@@ -19,12 +19,10 @@ The DCA aims to train professionals capable of designing and developing computer
 - :books: [Coscia, Michele. The Atlas for the Aspiring Network Scientist](https://www.networkatlas.eu/)
 
 #### Tools
-- <img src="images/networkx.png"
-     alt="Networkx"
-     style="float: left; margin-right: 0.3px;" /> [Networkx](https://networkx.org/)
-- [Graph-Tool] [[Link]](https://graph-tool.skewed.de/)
-- [Gephi] [[Link]](https://gephi.org/)
-- [OSMnx] [[Link]](https://github.com/gboeing/osmnx)
+- :smiley: [Networkx](https://networkx.org/)
+- :bulb: [Graph-Tool](https://graph-tool.skewed.de/)
+- :gear: [Gephi](https://gephi.org/)
+- :rocket: [OSMnx](https://github.com/gboeing/osmnx)
 
 
 ### Lessons
