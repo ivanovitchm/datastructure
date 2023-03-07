@@ -6,6 +6,12 @@
 ### Department of Computer Engineering and Automation 
 #### Algorithms and Data Structure II
 
+This is the repository for the Algorithms and Data Structures II course, offered by the Department of Computer Engineering and Automation ([DCA](www.dca.ufrn.br)) of the Technology Center ([CT](https://www.ct.ufrn.br/)) at the Federal University of Rio Grande do Norte ([UFRN](www.ufrn.br)).
+
+The DCA aims to train professionals capable of designing and developing computer systems for industrial automation, embedded systems, software systems, distributed systems, computer networks, and information systems. The CT offers undergraduate and graduate courses in Engineering. This course is part of the curriculum of the Computer Engineering program at DCA/UFRN.
+
+
+
 #### References
 
 - :books: Michael T. Goodrich, Roberto Tamassia, Michael H. Goldwasser. Data Structures and Algorithms in Python [[Link]](https://www.wiley.com/en-br/Data+Structures+and+Algorithms+in+Python-p-9781118290279)
