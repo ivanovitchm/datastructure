@@ -30,13 +30,11 @@ The DCA aims to train professionals capable of designing and developing computer
 
 ### Lessons
 
-**Week 01**: Course Outline [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week_01/course_outline.pdf)
-
-- Git and Version Control [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://www.dataquest.io/course/git-and-vcs/)
-    - You'll learn how to: a) organize your code using version control, b) resolve conflicts in version control, c) employ Git and Github to collaborate with others.
-    - :facepunch: getting a git repository.
-    - :hourglass_flowing_sand: Estimated time: 5h
+**Week 01**
+- [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week_01/course_outline.pdf) **Course Outline:** Provides an overview of the course structure and topics covered.
+- [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://www.dataquest.io/course/git-and-vcs/) **Git and Version Control:** Covers the basics of using Git and Github for version control and collaboration.
+    - :facepunch: **Skills you'll gain:** Organizing your code using version control, resolving conflicts in version control, collaborating with others using Git and Github.
+    - :hourglass_flowing_sand: **Estimated time:** 5 hours
 - Complementary materials
-    - Google Colab Introduction [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/8a4f0d34b3cb4d9ea04b6dcf0b3d1aca)
-    - Google Colab Cont. [optional] [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/d96cb0af7d9c4416bfe8145c93248a11) [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_01/Python_Tutorial.ipynb)
-    - :hourglass_flowing_sand: Estimated time: 1h
+    - [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/8a4f0d34b3cb4d9ea04b6dcf0b3d1aca) [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_01/Python_Tutorial.ipynb) **Introduction to Python:** An optional tutorial for those new to Python.
+    - :hourglass_flowing_sand: **Estimated time:** 1 hour
