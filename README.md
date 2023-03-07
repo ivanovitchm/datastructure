@@ -36,5 +36,5 @@ The DCA aims to train professionals capable of designing and developing computer
     - :facepunch: **Skills you'll gain:** Organizing your code using version control, resolving conflicts in version control, collaborating with others using Git and Github.
     - :hourglass_flowing_sand: **Estimated time:** 5 hours
 - Complementary materials
-    - [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/8a4f0d34b3cb4d9ea04b6dcf0b3d1aca) [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_01/Python_Tutorial.ipynb) **Introduction to Python:** An optional tutorial for those new to Python.
+    - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_01/Python_Tutorial.ipynb) **Introduction to Python:** An optional tutorial for those new to Python.
     - :hourglass_flowing_sand: **Estimated time:** 1 hour
