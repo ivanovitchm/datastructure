@@ -18,11 +18,13 @@ The DCA aims to train professionals capable of designing and developing computer
 - :books: [Zinoviev, Dmitry. Complex Network Analysis in Python](https://pragprog.com/titles/dzcnapy/complex-network-analysis-in-python/)
 - :books: [Coscia, Michele. The Atlas for the Aspiring Network Scientist](https://www.networkatlas.eu/)
 
-#### Tools
-- :smiley: [Networkx](https://networkx.org/)
-- :bulb: [Graph-Tool](https://graph-tool.skewed.de/)
-- :gear: [Gephi](https://gephi.org/)
-- :rocket: [OSMnx](https://github.com/gboeing/osmnx)
+
+| Tool | Link |
+|------|------|
+| :smiley: Networkx | [networkx.org](https://networkx.org/) |
+| :bulb: Graph-Tool | [graph-tool.skewed.de](https://graph-tool.skewed.de/) |
+| :gear: Gephi | [gephi.org](https://gephi.org/) |
+| :rocket: OSMnx | [github.com/gboeing/osmnx](https://github.com/gboeing/osmnx) |
 
 
 ### Lessons
