@@ -21,7 +21,7 @@ The DCA aims to train professionals capable of designing and developing computer
 #### Tools
 - <img src="images/networkx.png"
      alt="Networkx"
-     style="float: left; margin-right: 3px;" /> [Networkx](https://networkx.org/)
+     style="float: left; margin-right: 0.3px;" /> [Networkx](https://networkx.org/)
 - [Graph-Tool] [[Link]](https://graph-tool.skewed.de/)
 - [Gephi] [[Link]](https://gephi.org/)
 - [OSMnx] [[Link]](https://github.com/gboeing/osmnx)
