@@ -11,14 +11,12 @@ This is the repository for the Algorithms and Data Structures II course, offered
 The DCA aims to train professionals capable of designing and developing computer systems for industrial automation, embedded systems, software systems, distributed systems, computer networks, and information systems. The CT offers undergraduate and graduate courses in Engineering. This course is part of the curriculum of the Computer Engineering program at DCA/UFRN.
 
 
-
 #### References
 
-- :books: Michael T. Goodrich, Roberto Tamassia, Michael H. Goldwasser. Data Structures and Algorithms in Python [[Link]](https://www.wiley.com/en-br/Data+Structures+and+Algorithms+in+Python-p-9781118290279)
-- :books: Mark Newman. Networks [[Link]](https://global.oup.com/academic/product/networks-9780198805090?cc=br&lang=en&)
-- :books: Menczer, Filippo; Fortunato, Santo; A. Davis, Clayton. A First Course in Network Science [[Link]](https://www.cambridge.org/us/academic/subjects/physics/statistical-physics/first-course-network-science)
-- :books: Dmitry Zinoviev. Complex Network Analysis in Python [[Link]](https://pragprog.com/titles/dzcnapy/complex-network-analysis-in-python/)
-- :books: Coscia, Michele. The Atlas for the Aspiring Network Scientist [[Link]](https://www.networkatlas.eu/)
+- :books: [Newman, Mark. Networks](https://global.oup.com/academic/product/networks-9780198805090?cc=br&lang=en&)
+- :books: [Menczer, Filippo; Fortunato, Santo; Davis, Clayton A. A First Course in Network Science](https://www.cambridge.org/us/academic/subjects/physics/statistical-physics/first-course-network-science)
+- :books: [Zinoviev, Dmitry. Complex Network Analysis in Python](https://pragprog.com/titles/dzcnapy/complex-network-analysis-in-python/)
+- :books: [Coscia, Michele. The Atlas for the Aspiring Network Scientist](https://www.networkatlas.eu/)
 
 ##### Tools
 - Networkx [[Link]](https://networkx.org/)
