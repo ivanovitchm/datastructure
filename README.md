@@ -25,7 +25,7 @@ The DCA aims to train professionals capable of designing and developing computer
 | :bulb: Graph-Tool | [graph-tool.skewed.de](https://graph-tool.skewed.de/) |
 | :gear: Gephi | [gephi.org](https://gephi.org/) |
 | :rocket: OSMnx | [github.com/gboeing/osmnx](https://github.com/gboeing/osmnx) |
-| :bomb: ChatGPT | [https://chat.openai.com/chat](https://chat.openai.com/chat) |
+| :bomb: ChatGPT | [chat.openai.com](https://chat.openai.com/chat) |
 
 
 ### Lessons
