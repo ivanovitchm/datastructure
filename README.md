@@ -31,10 +31,9 @@ The DCA aims to train professionals capable of designing and developing computer
 ### Lessons
 
 **Week 01**
-- [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week_01/course_outline.pdf) **Course Outline:** Provides an overview of the course structure and topics covered.
+- [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week_01/Week_01.pdf) **Course Outline:** Provides an overview of the course structure and topics covered.
 - [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://www.dataquest.io/course/git-and-vcs/) **Git and Version Control:** Covers the basics of using Git and Github for version control and collaboration.
     - :facepunch: **Skills you'll gain:** Organizing your code using version control, resolving conflicts in version control, collaborating with others using Git and Github.
     - :hourglass_flowing_sand: **Estimated time:** 5 hours
-- Complementary materials
-    - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_01/Python_Tutorial.ipynb) **Introduction to Python:** An optional tutorial for those new to Python.
-    - :hourglass_flowing_sand: **Estimated time:** 1 hour
+- [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://www.dataquest.io/course/python-fundamentals-de/) **Python for Data Engineering: Fundamentals Part I:** You will be introduced to the basics of programming with Python, and learn the following skills: a) Processing numerical and text data, b) Creating variables and lists, c) Analyzing data using for loops, d) Writing conditional statements and using comparison operators.
+    - This course is designed to provide you with a solid foundation in Python programming, so that you can apply these skills in the context of data engineering. With an estimated time of :hourglass_flowing_sand: 6 hours, you will have plenty of opportunities to practice and reinforce your learning.
