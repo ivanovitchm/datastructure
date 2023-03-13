@@ -38,3 +38,10 @@ The DCA aims to train professionals capable of designing and developing computer
 - [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://www.dataquest.io/course/python-fundamentals-de/) **Python for Data Engineering: Fundamentals Part I:** You will be introduced to the basics of programming with Python.
     - :facepunch: **Skills you'll gain:** Processing numerical and text data, creating variables and lists, analyzing data using for loops, writing conditional statements and using comparison operators.
      - :hourglass_flowing_sand: **Estimated time:** 6 hours
+
+**Week 02**: 
+- Python for Data Engineering: Fundamentals Part II [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://www.dataquest.io/course/python-fundamentals-de-ii/)
+    - During the Python for Data Engineering: Fundamentals Part II course, you will refine your fundamental Python knowledge for data engineering. The course will introduce you to basic Python concepts such as dictionaries, functions, and default arguments. You will also build proficiency in the use of Jupyter Notebook and gain practical experience applying your newly acquired data skills in a data project that you can showcase in your portfolio.
+    - :hourglass_flowing_sand: Estimated time: 10h
+- Object Oriented Programming (OOP) introduction [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://app.dataquest.io/c/78/m/435/object-oriented-python/1/introduction)
+    - :hourglass_flowing_sand: Estimated time: 3h
