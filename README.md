@@ -44,4 +44,5 @@ The DCA aims to train professionals capable of designing and developing computer
     - :facepunch: **Skills you'll gain:** You will refine your fundamental Python knowledge for data engineering. The course will introduce you to basic Python concepts such as dictionaries, functions, and default arguments. You will also build proficiency in the use of Jupyter Notebook and gain practical experience applying your newly acquired data skills in a data project that you can showcase in your portfolio.
     - :hourglass_flowing_sand: Estimated time: 8h
 - Object Oriented Programming (OOP) introduction [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://app.dataquest.io/c/78/m/435/object-oriented-python/1/introduction)
+    - :facepunch: **Skills you'll gain:** You’ll also explore object-oriented programming (OOP) and how it powers Python
     - :hourglass_flowing_sand: Estimated time: 3h
