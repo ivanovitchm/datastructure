@@ -40,6 +40,7 @@ The DCA aims to train professionals capable of designing and developing computer
      - :hourglass_flowing_sand: **Estimated time:** 6 hours
 
 **Week 02**: 
+- [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week_02/week_02.pdf) **Data Structure Preliminaries:** Dictionaries, Functions and OOP.
 - Python for Data Engineering: Fundamentals Part II [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://www.dataquest.io/course/python-fundamentals-de-ii/)
     - :facepunch: **Skills you'll gain:** You will refine your fundamental Python knowledge for data engineering. The course will introduce you to basic Python concepts such as dictionaries, functions, and default arguments. You will also build proficiency in the use of Jupyter Notebook and gain practical experience applying your newly acquired data skills in a data project that you can showcase in your portfolio.
     - :hourglass_flowing_sand: Estimated time: 8h
