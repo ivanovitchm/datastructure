@@ -47,3 +47,11 @@ The DCA aims to train professionals capable of designing and developing computer
 - Object Oriented Programming (OOP) introduction [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://app.dataquest.io/c/78/m/435/object-oriented-python/1/introduction)
     - :facepunch: **Skills you'll gain:** You’ll also explore object-oriented programming (OOP) and how it powers Python
     - :hourglass_flowing_sand: Estimated time: 3h
+
+**Week 02**: 
+- [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week_03/Week_03.pdf) **Data Structure Preliminaries:** linked lists, queues and stacks.
+    - :facepunch: **Skills you'll gain:**  An exploration of linked lists and the benefits of using linked nodes when creating data structures. Subsequently, you will acquire knowledge on the subject of queues, which are based on the FIFO data structure (first in, first out), and the FCFS process scheduling algorithm (first come, first serve). Further to this, you will gain an understanding of stacks, based on the LIFO (last in, first out) data structure, as well as the LCFS process scheduling algorithm (last come, first serve).
+    - :hourglass_flowing_sand: Estimated time: 6h
+- Linked Lists [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://app.dataquest.io/c/108/m/560)
+- Queues [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://app.dataquest.io/c/108/m/561)
+- Stacks [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://app.dataquest.io/c/108/m/562)
