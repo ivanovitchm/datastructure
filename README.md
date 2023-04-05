@@ -66,7 +66,7 @@ The DCA aims to train professionals capable of designing and developing computer
     - Suggested courses
         - Overview of recursion [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://app.dataquest.io/c/109/m/578)
         - Introduction to binary trees [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://app.dataquest.io/c/109/m/579)
-    Code interview challenge and co-creation using Large Language Model (LLM) and ChatGPT. 
-    - Homework  [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_04/Code_Interview_recursion.ipynb)
+    - Code interview challenge and co-creation using Large Language Model (LLM) and ChatGPT. 
+        - Homework  [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_04/Code_Interview_recursion.ipynb)
 
 
