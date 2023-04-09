@@ -71,9 +71,10 @@ The DCA aims to train professionals capable of designing and developing computer
 
 
 **Week 05**: 
-- [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_05/Complexity%20of%20Algorithms%20Part%20I.pdf)  **Complexity of Algorithms I:** fundamentals and notations, time and space complexy.
-    - Fundamentals Part I [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/7e98eecbee0e48c1b94df1a3d1d16272)
-    - Fundamentals Part II [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/ff26959483f340a38a6083e20979b0b3)
+- [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_05/Complexity_of_Algorithms_Part_I.pdf)  **Complexity of Algorithms I:** fundamentals and notations, time and space complexy.
+    - [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_05/Exercise_Complexity_of_Algorithms_Part_I.pdf)  **How to calc the complexity of the most common use cases algorithms**: linear, quadratic and constant complexity 
+        - Fundamentals Part I [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/7e98eecbee0e48c1b94df1a3d1d16272)
+        - Fundamentals Part II [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/ff26959483f340a38a6083e20979b0b3)
     - Big $O$ notation [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/d2353c742cdd473d9e301b7e5d09adcc)
     - Big $\Omega$ notation [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/4d26d820ccb8415986ed74b5ee192a90)
     - Big $\Theta$ notation [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/bf386884b89545e79323cfe773d21070)
