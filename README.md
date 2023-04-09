@@ -69,17 +69,18 @@ The DCA aims to train professionals capable of designing and developing computer
     - Code interview challenge and co-creation using Large Language Model (LLM) and ChatGPT. 
         - Homework  [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_04/Code_Interview_recursion.ipynb)
 
-
 **Week 05**: 
 - [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_05/Complexity_of_Algorithms_Part_I.pdf)  **Complexity of Algorithms I:** fundamentals and notations, time and space complexy.
     - [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_05/Exercise_Complexity_of_Algorithms_Part_I.pdf)  **How to calc the complexity of the most common use cases algorithms**: linear, quadratic and constant complexity 
-        - Fundamentals Part I [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/7e98eecbee0e48c1b94df1a3d1d16272)
-        - Fundamentals Part II [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/ff26959483f340a38a6083e20979b0b3)
-    - Big $O$ notation [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/d2353c742cdd473d9e301b7e5d09adcc)
-    - Big $\Omega$ notation [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/4d26d820ccb8415986ed74b5ee192a90)
-    - Big $\Theta$ notation [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/bf386884b89545e79323cfe773d21070)
-    - :hourglass_flowing_sand: Estimated time: 1h30 to 2h00
-- Hands on
+        - Fundamentals of algorithms complexity I [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/7e98eecbee0e48c1b94df1a3d1d16272)
+        - Fundamentals of algorithms complexity II [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/ff26959483f340a38a6083e20979b0b3)
+        - :hourglass_flowing_sand: Estimated time: 30min
+    - [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_05/Notations.pdf)  **Notations**: linear, quadratic and constant complexity 
+        - Big $O$ notation [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/d2353c742cdd473d9e301b7e5d09adcc)
+        - Big $\Omega$ notation [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/4d26d820ccb8415986ed74b5ee192a90)
+        - Big $\Theta$ notation [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/bf386884b89545e79323cfe773d21070)
+        - :hourglass_flowing_sand: Estimated time: 30min
+- Lets practice!!
     - Time Complexity of Algorithms [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://app.dataquest.io/c/86/m/476)
         - :facepunch: **Skills you'll gain:**  you will learn how: a) measure the execution time of a algorithm; b) generate random inputs for an algorithm; c) model the execution time of an algorithm.
         - :hourglass_flowing_sand: Estimated time: 1h
