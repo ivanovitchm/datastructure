@@ -77,6 +77,13 @@ The DCA aims to train professionals capable of designing and developing computer
         - :hourglass_flowing_sand: Estimated time: 30min
     - [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_05/Notations.pdf)  **Notations**: linear, quadratic and constant complexity
         - Big $O$ notation [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/1e67c2e7b8d349c6923d341d182e28bb)
-        - Big $\Omega$ notation [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/84067923809c45cf9979fa50d4efd5f4)
-        - Big $\Theta$ notation [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/76f5017a6b944fedb2cd395b45071f1c)
+        - Big $\Omega$ notation [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)(https://www.loom.com/share/84067923809c45cf9979fa50d4efd5f4)
+        - Big $\Theta$ notation [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)(https://www.loom.com/share/76f5017a6b944fedb2cd395b45071f1c)
         - :hourglass_flowing_sand: Estimated time: 30min
+- Lets practice!!
+    - Time Complexity of Algorithms [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://app.dataquest.io/c/86/m/476)
+        - :facepunch: **Skills you'll gain:**  you will learn how: a) measure the execution time of a algorithm; b) generate random inputs for an algorithm; c) model the execution time of an algorithm.
+        - :hourglass_flowing_sand: Estimated time: 1h
+    - Constant Time Complexity [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://app.dataquest.io/c/86/m/477)
+        - :facepunch: **Skills you'll gain:** you will learn: a) Identify constant time operations; b) Identify how computers manage memory; c) Refine computing time complexity models; d) Identify hidden function calls in Python. e) Identify how lists and strings are stored in memory.
+        - :hourglass_flowing_sand: Estimated time: 2h
