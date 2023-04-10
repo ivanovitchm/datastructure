@@ -72,3 +72,7 @@ The DCA aims to train professionals capable of designing and developing computer
 **Week 05**:
 - [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/tree/main/lessons//week_05/Complexity_of_Algorithms_Part_I.pdf) **Complexity of Algorithms I:** fundamentals and notations, time and space complexity.
     - [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_05/Exercise_Complexity_of_Algorithms_Part_I.pdf)  **How to calc the complexity of the most common use cases algorithms**: linear, quadratic and constant complexity 
+        - Fundamentals of algorithms complexity I [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/7e98eecbee0e48c1b94df1a3d1d16272)
+        - Fundamentals of algorithms complexity II [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/ff26959483f340a38a6083e20979b0b3)
+        - :hourglass_flowing_sand: Estimated time: 30min
+ 
