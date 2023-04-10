@@ -59,7 +59,15 @@ The DCA aims to train professionals capable of designing and developing computer
 - Code interview challenge and co-creation using Large Language Model (LLM) and ChatGPT. 
     - Homework  [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_03/Code_Interview_Linked_Queue_Stacks.ipynb)
 
-
+**Week 04**: 
+- [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week_04/week_04.pdf) **Data Structure Preliminaries:** recursion, binary tree and search tree.
+    - :facepunch: **Skills you'll gain:**  you'll explore recursion, binary trees, and other related topics. By the conclusion, you'll have the ability to distinguish between iteration and recursion, construct a binary search tree for querying datasets, and acquire additional skills and knowledge..
+    - :hourglass_flowing_sand: Estimated time: 3h
+    - Suggested courses
+        - Overview of recursion [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://app.dataquest.io/c/109/m/578)
+        - Introduction to binary trees [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://app.dataquest.io/c/109/m/579)
+    - Code interview challenge and co-creation using Large Language Model (LLM) and ChatGPT. 
+        - Homework  [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_04/Code_Interview_recursion.ipynb)
 **Week 05**:
 - [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/tree/main/lessons//week_05/Complexity_of_Algorithms_Part_I.pdf) **Complexity of Algorithms I:** fundamentals and notations, time and space complexity.
     - [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_05/Exercise_Complexity_of_Algorithms_Part_I.pdf)  **How to calc the complexity of the most common use cases algorithms**: linear, quadratic and constant complexity 
