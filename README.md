@@ -89,7 +89,7 @@ The DCA aims to train professionals capable of designing and developing computer
         - :hourglass_flowing_sand: Estimated time: 2h
 
 **Week 06**: 
-- [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_06/Log%20Complexity.pdf)  **Complexity Algorithm II**: Logarithmic time complexity 
+- [![Open in PDF](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_06/Log_Complexity.pdf)  **Complexity Algorithm II**: Logarithmic time complexity 
     - Crash course about Logarithmic time complexity [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://app.dataquest.io/c/86/m/478)
         - you will learn: a) explain logarithms and logarithmic complexity; b) apply the binary search algorithm to find elements in sorted lists.
         - :hourglass_flowing_sand: Estimated time: 1h
