@@ -89,9 +89,13 @@ The DCA aims to train professionals capable of designing and developing computer
         - :hourglass_flowing_sand: Estimated time: 2h
 
 **Week 06**: 
-- [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_06/Log_Complexity.pdf)  **Complexity Algorithm II**: Logarithmic time complexity 
+- [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_06/Log_Complexity.pdf)  **Complexity Algorithm II**: Logarithmic time complexity  
     - Crash course about Logarithmic time complexity [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://app.dataquest.io/c/86/m/478)
         - you will learn: a) explain logarithms and logarithmic complexity; b) apply the binary search algorithm to find elements in sorted lists.
         - :hourglass_flowing_sand: Estimated time: 1h
     - Code interview challenge and co-creation using Large Language Model (LLM) and ChatGPT. 
         - Homework  [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_06/Week_06_bst.ipynb)
+    - Sorting Algorithms Complexity [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_06/Sorting%20algorithms.pdf)
+        - Selection Sort [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://app.dataquest.io/c/86/m/479) [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_06/selection_sort.ipynb)
+            - you will learn: a) apply a sorting algorithm; b) identify the time complexity of sorting in Python.
+        - :hourglass_flowing_sand: Estimated time: 1h
