@@ -100,7 +100,7 @@ The DCA aims to train professionals capable of designing and developing computer
             - you will learn: a) apply a sorting algorithm; b) identify the time complexity of sorting in Python.
         - :hourglass_flowing_sand: Estimated time: 1h
 
-**Week 07**: Network Elements I
+**Week 07**: 
 - [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_07/Network%20Elements%2001.pdf) **Graph Fundamentals**: introduction.
 - [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_07/Network%20Elements%2002.pdf) **Graph Fundamentals**: basic definitions, properties and representations.
     - Basic Definitions [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/476b0ea23ab3432e8f6ef4aaab159f84)
