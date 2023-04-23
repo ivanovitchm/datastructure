@@ -99,3 +99,12 @@ The DCA aims to train professionals capable of designing and developing computer
         - Selection Sort [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://app.dataquest.io/c/86/m/479) [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_06/selection_sort.ipynb)
             - you will learn: a) apply a sorting algorithm; b) identify the time complexity of sorting in Python.
         - :hourglass_flowing_sand: Estimated time: 1h
+
+**Week 07**: Network Elements I
+- [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_07/Network%20Elements%2001.pdf) **Graph Fundamentals**: introduction.
+- [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_07/Network%20Elements%2002.pdf) **Graph Fundamentals**: basic definitions, properties and representations.
+    - Basic Definitions [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/476b0ea23ab3432e8f6ef4aaab159f84)
+    - Extended Graphs [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/965db751b933483fb11e516eb8faa952)
+    - Density, Sparsity and Subnetworks [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/d677f78681ae406687dd9e4f0b115a56)
+    - Degree and Network Representation [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/46f59a92d5a843ca9d5f1b550e7d084e)
+    - :hourglass_flowing_sand: Estimated time: 2h
