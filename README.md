@@ -108,3 +108,6 @@ The DCA aims to train professionals capable of designing and developing computer
     - Density, Sparsity and Subnetworks [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/d677f78681ae406687dd9e4f0b115a56)
     - Degree and Network Representation [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/46f59a92d5a843ca9d5f1b550e7d084e)
     - :hourglass_flowing_sand: Estimated time: 2h
+- Hands on
+    - Network elements using networkx[![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week_07/Network_Elements.ipynb)
+        - :hourglass_flowing_sand: Estimated time: 1h
