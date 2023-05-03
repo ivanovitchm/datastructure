@@ -111,3 +111,8 @@ The DCA aims to train professionals capable of designing and developing computer
 - Hands on
     - Network elements using networkx [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week_07/Network_Elements.ipynb)
         - :hourglass_flowing_sand: Estimated time: 1h
+
+**Week 08**:
+    - Review week 07 [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week_08/exercise.ipynb)
+        - In this exercise you will practice: a) fundamentals of graphs/networks; b) networkx library.
+        - :hourglass_flowing_sand: Estimated time: 3h
