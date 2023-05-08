@@ -113,6 +113,15 @@ The DCA aims to train professionals capable of designing and developing computer
         - :hourglass_flowing_sand: Estimated time: 1h
 
 **Week 08**:
-- Review week 07 [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week_08/exercise.ipynb)
+- [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week_08/exercise.ipynb): Review week 07 
     - In this exercise you will practice: a) fundamentals of graphs/networks; b) networkx library.
      - :hourglass_flowing_sand: Estimated time: 3h
+
+**Week 09**:
+- [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_09/Small_Worlds.pdf) Small Worlds: Any two people in the world are connected by a short chain of acquaintances 
+    - The art of seeing networks [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_09/NetworkX.ipynb)
+    - Assortativity [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/6563374eabc64385a2b55313da688c2c) [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_09/Assortativity.ipynb)
+    - Paths, Walks and Distances [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/2d92497357d54494b1b03990a23abd83) [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_09/Walks%2C%20Paths%20and%20Distances.ipynb)
+    - Connected Components [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/f573b053f65f43909cdc64cfe72ce5b9) [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_09/Connected%20Components.ipynb)
+    - Clustering Coefficient [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/1880f8dbf5864104a011bba8bc767121) [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_09/Clustering%20Coefficient.ipynb)
+- :hourglass_flowing_sand: Estimated time: 6h
