@@ -26,7 +26,7 @@ The DCA aims to train professionals capable of designing and developing computer
 | :gear: Gephi | [gephi.org](https://gephi.org/) |
 | :rocket: OSMnx | [github.com/gboeing/osmnx](https://github.com/gboeing/osmnx) |
 | :bomb: ChatGPT | [chat.openai.com](https://chat.openai.com/chat) |
-| :floppy_disk: Dataset | [dataset](https://snap.stanford.edu/data/) |
+| :floppy_disk: Dataset | [snap.stanford.edu/data](https://snap.stanford.edu/data/) |
 
 
 ### Lessons
