@@ -126,3 +126,9 @@ The DCA aims to train professionals capable of designing and developing computer
     - Connected Components [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/f573b053f65f43909cdc64cfe72ce5b9) [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_09/Connected%20Components.ipynb)
     - Clustering Coefficient [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/1880f8dbf5864104a011bba8bc767121) [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_09/Clustering%20Coefficient.ipynb)
 - :hourglass_flowing_sand: Estimated time: 6h
+
+
+**Week 10**:
+- [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_10/Project_U2P1.pdf) Project requirement: 
+- [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week_10/Exercise.ipynb): Exercise.
+     - :hourglass_flowing_sand: Estimated time: 10h
