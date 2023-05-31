@@ -132,3 +132,14 @@ The DCA aims to train professionals capable of designing and developing computer
 - [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_10/Project_U2P1.pdf) Project requirement.
 - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week_10/Exercise.ipynb) Exercise.
      - :hourglass_flowing_sand: Estimated time: 12h
+
+**Week 11**: 
+- [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_11/Week%2011%20Hubs.pdf) Hubs 
+- Eccentricity, Diameter, Periphery, Radius and Center [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/5e94bd5db07b49f2aef430afd0d70387)
+- Degree, Closeness, Betweenness and Eigenvector Centrality [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/33fcf5b964774bbe954d8c27ab9d14b2)
+- Centrality Distributions Part 01 [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/fbbf816ef7024ff28ae40c23c6a4e4a3)
+- Centrality Distributions Part 02 [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/501981aa40b7473ba42264135bd4f73a)
+- Core Decomposition Part 01 [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/4c0662510c714c3e893dcaabf4f02035)
+- Core Decomposition Part 02 [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/a76e1d7feaa44ae98520877048c995ff)
+- Hands on hubs [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_11/Hubs.ipynb)
+- :hourglass_flowing_sand: Estimated time: 3h
