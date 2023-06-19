@@ -143,3 +143,14 @@ The DCA aims to train professionals capable of designing and developing computer
 - Core Decomposition Part 02 [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/a76e1d7feaa44ae98520877048c995ff)
 - Hands on hubs [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_11/Hubs.ipynb)
 - :hourglass_flowing_sand: Estimated time: 3h
+
+**Week 12**: 
+- Directed networks: case study of Wikipedia pages
+    - Building a networking from Wikipedia pages [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/d71021f9a66d4db7894696f21da3a461?sid=01bde711-0944-416f-8567-a30846bef1b7)
+    - Collecting data from a snowballing process [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/bd71b06183ab4627b49ed43b110cbb2d?sid=8d79e4ed-4e06-4751-afaa-6cb364b28d3f)
+    - Truncate and eliminate duplicates  [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/5791ab744b3749cf849fb9698119b8b2?sid=ef8f40ce-c2ee-42d5-9124-4498897abf21)
+    - Exploring the network data  [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/1cd05cb9ad5a456f943bf747cd1b6505?sid=6d322ab5-ed5e-47e9-8a5c-c53f3e06e01f)
+    - Hands on [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_12/Wikipedia.ipynb)
+- Building a Data Pipeline using Direct Acyclic Graph (DAG) 
+    - [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://www.dataquest.io/course/building-a-data-pipeline/) 
+    - :hourglass_flowing_sand: Estimated time: 6-8h
