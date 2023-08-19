@@ -33,9 +33,14 @@ The DCA aims to train professionals capable of designing and developing computer
 
 **Week 01**
 - [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week_01/Week_01.pdf) **Course Outline:** Provides an overview of the course structure and topics covered.
-- [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://www.dataquest.io/course/git-and-vcs/) **Git and Version Control:** Covers the basics of using Git and Github for version control and collaboration.
-    - :facepunch: **Skills you'll gain:** Organizing your code using version control, resolving conflicts in version control, collaborating with others using Git and Github.
-    - :hourglass_flowing_sand: **Estimated time:** 5 hours
-- [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://www.dataquest.io/course/python-fundamentals-de/) **Python for Data Engineering: Fundamentals Part I:** You will be introduced to the basics of programming with Python.
-    - :facepunch: **Skills you'll gain:** Processing numerical and text data, creating variables and lists, analyzing data using for loops, writing conditional statements and using comparison operators.
-     - :hourglass_flowing_sand: **Estimated time:** 6 hours
+-  🎉 GitHub Education Benefits
+    - GitHub Education Pro: Get access to the GitHub Education Pro pack by visiting [GitHub Education](https://education.github.com/pack)
+- 🚀 Instant Coding with Codespaces
+    - Learn how to start coding instantly using [GitHub Codespaces](https://learn.microsoft.com/pt-pt/training/student-hub/github-codespaces-for-students)
+- 📖 Learning Resources 
+    - GitHub Learning Game: Check out the interactive Git learning game at [GitHub Learning Game](https://learngitbranching.js.org/)
+    - Basic Python: Enhance your Python skills through the [Kaggle Python course](https://www.kaggle.com/learn/python).
+- 🎯 Week Goals 
+    - Your main goal for this week is to create a personal repository for tracking your progress and coursework.
+    - Feel free to explore these resources and engage with the course material. If you have any questions or need assistance, please don't hesitate to reach out.
+    - Happy coding! 💻🚀
