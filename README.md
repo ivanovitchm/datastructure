@@ -33,6 +33,10 @@ The DCA aims to train professionals capable of designing and developing computer
 
 **Week 01**
 - [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week_01/Week_01.pdf) **Course Outline:** Provides an overview of the course structure and topics covered.
+- 🎯 Week Goals 
+    - Your main goal for this week is to create a personal repository for tracking your progress and coursework.
+    - Feel free to explore these resources and engage with the course material. If you have any questions or need assistance, please don't hesitate to reach out.
+    - Happy coding! 💻🚀
 -  🎉 GitHub Education Benefits
     - GitHub Education Pro: Get access to the GitHub Education Pro pack by visiting [GitHub Education](https://education.github.com/pack)
 - 🚀 Instant Coding with Codespaces
@@ -40,7 +44,12 @@ The DCA aims to train professionals capable of designing and developing computer
 - 📖 Learning Resources 
     - GitHub Learning Game: Check out the interactive Git learning game at [GitHub Learning Game](https://learngitbranching.js.org/)
     - Basic Python: Enhance your Python skills through the [Kaggle Python course](https://www.kaggle.com/learn/python).
+
+**Week 02**
+- [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week_02/week_02.pdf) **Review:** Recursion, Binary Search Trees (BST) and AVL Trees.
 - 🎯 Week Goals 
-    - Your main goal for this week is to create a personal repository for tracking your progress and coursework.
-    - Feel free to explore these resources and engage with the course material. If you have any questions or need assistance, please don't hesitate to reach out.
-    - Happy coding! 💻🚀
+    - Your main goal for this week is to recursion, binary and avl trees, and other related topics. By the conclusion, you'll have the ability to distinguish between iteration and recursion, construct a binary search and avl tree for querying datasets, and acquire additional skills and knowledge.
+- [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week_02/Recursion.ipynb) **Recursion**: we will learn about recursion and a new implementation of a sorting algorithm (merge sort), and its analysis.
+- [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week_02/Binary_Trees.ipynb) **Binary Trees**: run a binary search tree and analyze its performance.
+- [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week_02/avl.ipynb) **AVL Trees**: in this noteboo, we will learn how to implement AVL trees, which are self-balancing binary search trees.
+
