@@ -63,7 +63,7 @@ The DCA aims to train professionals capable of designing and developing computer
     - [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_03/Notations.pdf)  **Notations**: Linear, quadratic, and constant complexity.
         - Big O Notation [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/1e67c2e7b8d349c6923d341d182e28bb)
         - Big <span>&Omega;</span> Notation [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/84067923809c45cf9979fa50d4efd5f4)
-        - Big <span>&Theta;</span> [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/76f5017a6b944fedb2cd395b45071f1c)
+        - Big <span>&Theta;</span> Notation [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/76f5017a6b944fedb2cd395b45071f1c)
         - :hourglass_flowing_sand: Estimated time: 30min
 - Let's Practice!
     - Time Complexity of Algorithms [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://app.dataquest.io/c/86/m/476)
