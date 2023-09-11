@@ -78,6 +78,6 @@ The DCA aims to train professionals capable of designing and developing computer
     - Crash course about Logarithmic time complexity [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://app.dataquest.io/c/86/m/478)
         - you will learn: a) explain logarithms and logarithmic complexity; b) apply the binary search algorithm to find elements in sorted lists.
         - :hourglass_flowing_sand: Estimated time: 1h
-    - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_04/Week_04_bst.ipynb): **Guided Project**: Code interview challenge and co-creation using Large Language Model (LLM) and ChatGPT.
+    - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_04/Week_04_solver.ipynb): **Guided Project**: Code interview challenge and co-creation using Large Language Model (LLM) and ChatGPT.
         
 
