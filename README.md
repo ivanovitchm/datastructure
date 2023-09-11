@@ -73,4 +73,11 @@ The DCA aims to train professionals capable of designing and developing computer
         - :facepunch: **Skills You'll Gain**: You will learn how to a) identify constant time operations; b) understand how computers manage memory; c) refine computing time complexity models; d) identify hidden function calls in Python; e) understand how lists and strings are stored in memory.
         - :hourglass_flowing_sand: Estimated time: 2h
 
+**Week 04**
+- [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_04/Log_Complexity.pdf)  **Complexity Algorithm II**: Logarithmic time complexity  
+    - Crash course about Logarithmic time complexity [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://app.dataquest.io/c/86/m/478)
+        - you will learn: a) explain logarithms and logarithmic complexity; b) apply the binary search algorithm to find elements in sorted lists.
+        - :hourglass_flowing_sand: Estimated time: 1h
+    - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_04/Week_04_bst.ipynb): **Guided Project**: Code interview challenge and co-creation using Large Language Model (LLM) and ChatGPT.
+        
 
