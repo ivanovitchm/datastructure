@@ -79,5 +79,7 @@ The DCA aims to train professionals capable of designing and developing computer
         - you will learn: a) explain logarithms and logarithmic complexity; b) apply the binary search algorithm to find elements in sorted lists.
         - :hourglass_flowing_sand: Estimated time: 1h
     - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_04/Week_04_solver.ipynb): **Guided Project**: Code interview challenge and co-creation using Large Language Model (LLM) and ChatGPT.
-        
+- [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_04/Sorting_algorithms.pdf) **Complexity Algorithm II**: Sorting Algorithms Complexity
+    - you will learn: a) apply a sorting algorithm; b) identify the time complexity of sorting in Python.
+     
 
