@@ -93,3 +93,15 @@ The DCA aims to train professionals capable of designing and developing computer
 - 🛠 **Hands on**
     - Network elements using networkx [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week_05/[NetworkX]_Network_Elements.ipynb)
 
+**Week 06**
+
+- Project
+
+**Week 07**
+
+**Week 09**: Small Worlds 
+- [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_07/Small_Worlds.pdf) Homifily
+    - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_07/NetworkX.ipynb) **The art of seeing networks**
+    - Assortativity [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/7a3a7eaae9e44647964d178fb1c4ba11) 
+    - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_07/Assortativity.ipynb) **Hands on**
+
