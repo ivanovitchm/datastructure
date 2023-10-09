@@ -97,7 +97,7 @@ The DCA aims to train professionals capable of designing and developing computer
 - [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_06/F1Clash.pdf) **Project**: [F1 Clash](https://www.hutch.io/our-games/f1-clash/) on Graph
 
 **Week 07**
-- [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_07/Small_Worlds.pdf) **Small Worlds**: Homifily and Assortativity
+- [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_07/Small_Worlds.pdf) **Small Worlds**: Homiphily and Assortativity
     - Assortativity [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/7a3a7eaae9e44647964d178fb1c4ba11) 
     - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_07/Assortativity.ipynb) **Hands on assortativity**
 
