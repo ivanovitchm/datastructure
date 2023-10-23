@@ -107,3 +107,7 @@ The DCA aims to train professionals capable of designing and developing computer
     - Paths, Walks and Distances [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/2d92497357d54494b1b03990a23abd83) [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_08/Walks%2C_Paths_and_Distances.ipynb)
     - Connected Components [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/f573b053f65f43909cdc64cfe72ce5b9) [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_08/Connected_Components.ipynb)
     - Clustering Coefficient [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/1880f8dbf5864104a011bba8bc767121) [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_08/Clustering_Coefficient.ipynb)
+
+
+**Week 09**
+- [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_09/U2T2.pdf) **Project Small Worlds**:  hands on assortativity, clustering Coefficient and connected components.
