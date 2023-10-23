@@ -110,4 +110,4 @@ The DCA aims to train professionals capable of designing and developing computer
 
 
 **Week 09**
-- [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_09/U2T2.pdf) **Project Small Worlds**:  hands on assortativity, clustering Coefficient and connected components.
+- [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_09/U2T2.pdf) **Project Small Worlds**:  hands on assortativity, clustering coefficient and connected components.
