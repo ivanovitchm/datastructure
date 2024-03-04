@@ -17,6 +17,8 @@ The DCA aims to train professionals capable of designing and developing computer
 - :books: [Menczer, Filippo; Fortunato, Santo; Davis, Clayton A. A First Course in Network Science](https://www.cambridge.org/us/academic/subjects/physics/statistical-physics/first-course-network-science)
 - :books: [Zinoviev, Dmitry. Complex Network Analysis in Python](https://pragprog.com/titles/dzcnapy/complex-network-analysis-in-python/)
 - :books: [Coscia, Michele. The Atlas for the Aspiring Network Scientist](https://www.networkatlas.eu/)
+- :books: [Knickerbocker, David. Network Science with Python](https://www.packtpub.com/product/network-science-with-python/9781801073691)
+- :books: [Grimmer, Justin; Roberts, Margaret E.; Stewart, Brandon M. Test as Data: A new framework for Machine Learning and the Social Sciences](https://press.princeton.edu/books/paperback/9780691207551/text-as-data)
 
 
 | Tool | Link |
