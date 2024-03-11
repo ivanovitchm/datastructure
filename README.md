@@ -46,3 +46,10 @@ The DCA aims to train professionals capable of designing and developing computer
 - 📖 Learning Resources 
     - GitHub Learning Game: Check out the interactive Git learning game at [GitHub Learning Game](https://learngitbranching.js.org/)
     - Basic Python: Enhance your Python skills through the [Kaggle Python course](https://www.kaggle.com/learn/python).
+
+**Week 02**
+- [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week_02/week_02.pdf) **Review:** topics covered include Recursion, Binary Search Trees (BST), and AVL Trees.
+- 🎯 Week Goals 
+    - Your main goal for this week is related to following subjects: recursion, binary and avl trees. By the conclusion, you'll have the ability to distinguish between iteration and recursion, learn how to construct and query datasets using Binary Search Trees (BST) and get acquaninted with AVL trees.
+- [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week_02/Recursion.ipynb) **Recursion**: dive into recursion and explore the implementation and analysis of the Merge Sort algorithm.
+- [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week_02/Binary_Trees.ipynb) **Binary Trees**: build and analyze the performance of a Binary Search Tree.
