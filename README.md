@@ -59,7 +59,7 @@ The DCA aims to train professionals capable of designing and developing computer
 **Week 03**
 - [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week_03/Complexity_of_Algorithms_Part_I.pdf) **Complexity of Algorithms I:** Fundamentals and notations, time and constant complexity.
     - Let's Practice!
-        - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_03/twonumbersum.ipynb): Two number sum challenge.
+        - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_03/twonumbersum.ipynb): Two numbers sum challenge.
     - [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_03/Exercise_Complexity_of_Algorithms_Part_I.pdf)  **How to Calculate the Complexity of the Most Common Use Cases Algorithms**: Linear, quadratic, and constant complexity.
         - Fundamentals of Algorithms Complexity I [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/7e98eecbee0e48c1b94df1a3d1d16272)
         - Fundamentals of Algorithms Complexity II [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/ff26959483f340a38a6083e20979b0b3)
