@@ -69,7 +69,7 @@ The DCA aims to train professionals capable of designing and developing computer
         - Big <span>&Omega;</span> Notation [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/84067923809c45cf9979fa50d4efd5f4)
         - Big <span>&Theta;</span> Notation [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/76f5017a6b944fedb2cd395b45071f1c)
         - :hourglass_flowing_sand: Estimated time: 30min
-- Let's Practice!
+- Let's Practice (homework)!
     - Time Complexity of Algorithms 
         - :facepunch: **Skills You'll Gain**: You will learn how to a) measure the execution time of an algorithm; b) generate random inputs for an algorithm; c) model the execution time of an algorithm.
         - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_03/Time_Complexity_of_Algorithms.ipynb): Time Complexity of Algorithms.
