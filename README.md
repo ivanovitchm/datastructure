@@ -82,3 +82,14 @@ The DCA aims to train professionals capable of designing and developing computer
 - [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_04/U1T3.pdf)  **Challenges**: Complexity of different operations in Binary Search Tree.
     - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_04/challenge_01_closestvalue.ipynb): **Challenge 01**: Find Closest Value.
     - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_04/challenge_02_kth_largest.ipynb): **Challenge 02**: Find Kth Largest Value.
+
+**Week 05**
+- [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_05/Week_05a.pdf) **Network Fundamentals I**: Outline, applications, math and graph theory. 
+- [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_05/Week_05b.pdf) **Network Fundamentals II**: Probability, extended graphs, matrices, degree and representation.
+    - Basic Definitions [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/aa7b736bc2b24d599efa7b24d96edc72)
+    - Extended Graphs [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/8646b007d7ac4aa485430a3a7c487480)
+    - Density, Sparsity and Subnetworks [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/49175fd385d94ae58831921cd53f715c)
+    - Degree and Network Representation [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/bcaf192f492a413984d7b183edf06ce2)
+    - :hourglass_flowing_sand: Estimated time: 2h
+- 🛠 **Hands on**
+    - Network elements using networkx [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week_05/[NetworkX]_Network_Elements.ipynb)
