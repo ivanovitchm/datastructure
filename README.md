@@ -93,4 +93,4 @@ The DCA aims to train professionals capable of designing and developing computer
     - :hourglass_flowing_sand: Estimated time: 2h
 - 🛠 **Hands on**
     - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week_05/[NetworkX]_Network_Elements.ipynb) Network elements using networkx 
-    - :books: Further reading: chapter 1 to 5 of the book [The Atlas For The Aspiring Network Scientist](https://www.networkatlas.eu/)
+    - :books: Further reading: chapters 1 to 6 of the book [The Atlas For The Aspiring Network Scientist](https://www.networkatlas.eu/)
