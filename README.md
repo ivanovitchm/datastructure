@@ -96,7 +96,7 @@ The DCA aims to train professionals capable of designing and developing computer
     - :books: Further reading: chapters 1 to 6 of the book [The Atlas For The Aspiring Network Scientist](https://www.networkatlas.eu/)
 
 **Week 06**
-- [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_06/Week_06.pdf) **Network Fundamentals I**: previously covered topics ...
+- [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_06/week_06.pdf) **Network Fundamentals I**: previously covered topics ...
 - **Case study**
     - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week_06/SDG.ipynb) Authorship Attribution: Social Development Goals (SDG) dataset.
     - Dataset: [SDG](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_06/SDG_9_ufrn.csv)
