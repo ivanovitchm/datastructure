@@ -41,4 +41,5 @@ The DCA aims to train professionals capable of designing and developing computer
 - 📖 Learning Resources 
     - GitHub Learning Game: Check out the interactive Git learning game at [GitHub Learning Game](https://learngitbranching.js.org/)
     - Basic Python: Enhance your Python skills through the [Kaggle Python course](https://www.kaggle.com/learn/python).
+    - AI Python for Beginners: Learn Python programming fundamentals and how to integrate AI tools for data manipulation, analysis, and visualization. [Andrew Ng](https://www.deeplearning.ai/short-courses/ai-python-for-beginners/)
 
