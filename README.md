@@ -31,7 +31,7 @@ The DCA aims to train professionals capable of designing and developing computer
 ### Lessons
 
 **Week 01**
-- [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week_01/Week_01.pdf) **Course Outline:** Provides an overview of the course structure and topics covered.
+- [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week_01/lesson_01.pdf) **Course Outline:** Provides an overview of the course structure and topics covered.
     - 🎯 Week Goals 
         - Your main goal for this week is to create a personal repository for tracking your progress and coursework.
         - Feel free to explore these resources and engage with the course material. If you have any questions or need assistance, please don't hesitate to reach out.
@@ -42,3 +42,7 @@ The DCA aims to train professionals capable of designing and developing computer
         - GitHub Learning Game: Check out the interactive Git learning game at [GitHub Learning Game](https://learngitbranching.js.org/)
         - Basic Python: Enhance your Python skills through the [Kaggle Python course](https://www.kaggle.com/learn/python).
         - AI Python for Beginners: Learn Python programming fundamentals and how to integrate AI tools for data manipulation, analysis, and visualization. [Andrew Ng](https://www.deeplearning.ai/short-courses/ai-python-for-beginners/)
+- [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_01/lesson_02.pdf) **Network Fundamentals I**: Outline, applications, math and graph theory.
+    - 🛠 **Hands on**
+    - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week_01/networkx.ipynb) Network elements using networkx 
+    - :books: Further reading: chapters 1 to 4 of the book [The Atlas For The Aspiring Network Scientist](https://www.networkatlas.eu/), including the exercises.
