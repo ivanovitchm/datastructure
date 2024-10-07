@@ -55,5 +55,5 @@ The DCA aims to train professionals capable of designing and developing computer
 **Week 03**
 - [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_03/Assortativity.pdf) **Small World**: This week, we explore key concepts such as Small World Networks, Homophily, and Assortativity. You will investigate how these concepts influence the structure and behavior of real-world networks.
     - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_03/Assortativity.ipynb) **Hands on assortativity**
-     - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_03/NetworkX.ipynb) **The art of seeing networks**
-      - :books: Further reading: chapters 26 to 27 of the book [The Atlas For The Aspiring Network Scientist](https://www.networkatlas.eu/), including the exercises.
+    - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_03/NetworkX.ipynb) **The art of seeing networks**
+    - :books: Further reading: chapters 26 to 27 of the book [The Atlas For The Aspiring Network Scientist](https://www.networkatlas.eu/), including the exercises.
