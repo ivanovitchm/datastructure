@@ -72,3 +72,11 @@ The DCA aims to train professionals capable of designing and developing computer
     - Centrality Distributions 
     - Core Decomposition 
 - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_05/Hubs.ipynb) Hands on centralities measures
+
+**Week 06**
+- Directed networks: case study of Wikipedia pages
+    - Building a networking from Wikipedia pages 
+    - Collecting data from a snowballing process
+    - Truncate and eliminate duplicates
+    - Exploring the network data
+    - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_06/Wikipedia.ipynb) Wikipedia pages network
