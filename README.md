@@ -111,3 +111,9 @@ The DCA aims to train professionals capable of designing and developing computer
         - :facepunch: **Skills You'll Gain**: You will learn how to a) measure the execution time of an algorithm; b) generate random inputs for an algorithm; c) model the execution time of an algorithm.
         - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_08/Time_Complexity_of_Algorithms.ipynb): Time Complexity of Algorithms.
         - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_08/Constant_time_complexity.ipynb): Constant Time Complexity.
+
+
+**Week 09**
+- [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_09/LogComplexity.pdf)  **Complexity Algorithm II**: Logarithmic time complexity  
+    - You will learn: a) explain logarithms and logarithmic complexity; b) apply the binary search algorithm to find elements in sorted lists.
+    - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_04/Week_09_solver.ipynb): **Guided Project**: Code interview challenge. 
