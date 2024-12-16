@@ -133,3 +133,4 @@ The DCA aims to train professionals capable of designing and developing computer
     - You will learn: a) Explain how the minimum spanning tree Kruskal's algorithm works. b) Understand the algorithm’s time complexity.
     - Ready to practice?
         - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_11/Kruskal.ipynb): **Kruskal**: Implement the minimum spanning tree algorithm.
+        - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_11/osmnx_mst.ipynb): **OSMnx example**: A practical example using mst and OSMnx.
