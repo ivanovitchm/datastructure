@@ -134,3 +134,8 @@ The DCA aims to train professionals capable of designing and developing computer
     - Ready to practice?
         - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_11/Kruskal.ipynb): **Kruskal**: Implement the minimum spanning tree algorithm.
         - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_11/osmnx_mst.ipynb): **OSMnx example**: A practical example using mst and OSMnx.
+
+**Week 12**
+- References for unit 2 project.
+        - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_12/dijsktra_min_heap.ipynb): **Dijsktra**: dijsdktra algorithm implementation modified to use min heap. 
+        - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_12/kruskal_natal.ipynb): **Kruskal**: A practical example using mst and OSMnx with a real-world network of streets in Natal-RN.
