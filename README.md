@@ -36,3 +36,7 @@ The DCA aims to train professionals capable of designing and developing computer
     - 📖 Learning Resources 
         - GitHub Learning Game: Check out the interactive Git learning game at [GitHub Learning Game](https://learngitbranching.js.org/)
         - Basic Python: Enhance your Python skills through the [Kaggle Python course](https://www.kaggle.com/learn/python).
+- [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week01/lesson_02.pdf) **Network Fundamentals I**: Outline, applications, math and graph theory.
+    - 🛠 **Hands on**
+    - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week01/NetworkElementsI.ipynb) Network elements using networkx tool
+    - :books: Further reading: chapters 2, 3, 6 and 7 of the book [The Atlas For The Aspiring Network Scientist](https://www.networkatlas.eu/).
