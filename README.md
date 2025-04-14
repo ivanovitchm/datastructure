@@ -45,3 +45,14 @@ The DCA aims to train professionals capable of designing and developing computer
 - [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week02/lesson03.pdf) **Network Fundamentals II**: Probability, extended graphs, matrices, degree and representation.
     - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week02/lesson03.ipynb) Extended graphs and representation using networkx tool.
     - :books: Further reading: chapters 7, 8, 9 of the book [The Atlas For The Aspiring Network Scientist](https://www.networkatlas.eu/).
+
+**Week 03**
+
+- Project: Authorship Temporal Network Analysis
+
+**Week 04**
+
+- [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_04/Assortativity.pdf) **Small World**: This week’s content focuses on core concepts such as Small World Networks, Homophily, and Assortativity. You will analyze how these properties shape the topology and dynamics of real-world networks.
+    - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_04/Assortativity.ipynb) **Hands on assortativity**:  A hands-on notebook for computing and interpreting assortativity in real datasets.
+    - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_04/NetworkX.ipynb) **The art of seeing networks**:  Explore key NetworkX functionalities for analyzing and visualizing complex networks.
+    - :books: Further reading: chapters 30 to 31 from [The Atlas For The Aspiring Network Scientist](https://www.networkatlas.eu/), including the exercises.
