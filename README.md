@@ -56,3 +56,12 @@ The DCA aims to train professionals capable of designing and developing computer
     - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week04/Assortativity.ipynb) **Hands on assortativity**:  A hands-on notebook for computing and interpreting assortativity in real datasets.
     - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week04/NetworkX.ipynb) **The art of seeing networks**:  Explore key NetworkX functionalities for analyzing and visualizing complex networks.
     - :books: Further reading: chapters 30 to 31 from [The Atlas For The Aspiring Network Scientist](https://www.networkatlas.eu/), including the exercises.
+
+
+**Week 05**
+
+- [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week05/Week_05.pdf) **Small World Cont.**: Paths, Distances, Connected Components, Clustering Coefficient, Social Distance and Six Degrees of Separation
+    - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week05/Walks_Paths_and_Distances.ipynb) Paths, Walks and Distances
+    - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week05/Connected_Components.ipynb) Connected Components
+    - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week05/Clustering_Coefficient.ipynb) Clustering Coefficient
+    
