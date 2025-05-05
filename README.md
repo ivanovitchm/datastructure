@@ -70,3 +70,4 @@ The DCA aims to train professionals capable of designing and developing computer
     - You will learn: a) Explain how the Dijkstra algorithm works. b) Understand the algorithm’s time complexity.
     - Ready to practice?
         - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week06/dijsktra.ipynb): **Dijsktra**: Implement the algorithm both with and without path reconstruction.
+         - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week06/dijsktra_min_heap.ipynb): **Min-Heap**: an implementation of Dijkstra's algorithm using a min-heap, with and without path reconstruction. 
