@@ -72,11 +72,11 @@ The DCA aims to train professionals capable of designing and developing computer
         - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week06/dijsktra.ipynb): **Dijsktra**: Implement the algorithm both with and without path reconstruction.
          - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week06/dijsktra_min_heap.ipynb): **Min-Heap**: an implementation of Dijkstra's algorithm using a min-heap, with and without path reconstruction. 
 
-** Week 07**
+**Week 07**
 
 - U2T1 Evaluating Algorithms for the Shortest Path in Urban Graphs
 
-** Week 08**
+**Week 08**
 
 **Week 08**
 
@@ -87,3 +87,4 @@ The DCA aims to train professionals capable of designing and developing computer
         - Explanation of `siftDown` and `siftUp` mechanisms
         - Efficient heap construction from unsorted arrays using `buildHeap`
 - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week08/MinHeap.ipynb) **MinHeap Implementation and Testing**: Interactive Jupyter Notebook that includes the full implementation of a Min-Heap class in Python, along with detailed unit tests to validate correctness and ensure that the min-heap property is preserved after each operation.
+
