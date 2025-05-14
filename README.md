@@ -78,8 +78,6 @@ The DCA aims to train professionals capable of designing and developing computer
 
 **Week 08**
 
-**Week 08**
-
 - [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week08/MinHeap.pdf) **Heap Structures and Time Complexity**: This lesson explores Min-Heap data structures, focusing on their array representation and the behavior of the main operations such as insert, remove, and peek.
     - Topics covered include:
         - Properties of a Min-Heap and array-based implementation
