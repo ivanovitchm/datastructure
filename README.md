@@ -119,5 +119,5 @@ The DCA aims to train professionals capable of designing and developing computer
         - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week12/Kruskal.ipynb): **Kruskal**: Implement the minimum spanning tree algorithm.
         - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week12/osmnx_mst.ipynb): **OSMnx example**: A practical example using mst and OSMnx.
 
-- U2T3 Aplying Kruskal algorithm for points of interest in urban graph of Natal.
+- U2T3: Applying Kruskal's Algorithm to Points of Interest in Natal's Urban Graph.
      - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week12/kruskal_natal.ipynb): **Kruskal-POI**: reference to be considered in the project.
