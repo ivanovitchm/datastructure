@@ -113,8 +113,11 @@ The DCA aims to train professionals capable of designing and developing computer
 
 **Week 12**
 
-- [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week12/Kruskal.pdf)  **Classical Algorithms: Kruskal**: Minimum Spanning Tree  
+- [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week12/Kruskal.pdf) **Classical Algorithms - Kruskal**: Minimum Spanning Tree  
     - You will learn: a) Explain how the minimum spanning tree Kruskal's algorithm works. b) Understand the algorithm’s time complexity.
     - Ready to practice?
         - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week12/Kruskal.ipynb): **Kruskal**: Implement the minimum spanning tree algorithm.
         - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week12/osmnx_mst.ipynb): **OSMnx example**: A practical example using mst and OSMnx.
+
+- U2T3 Aplying Kruskal algorithm for points of interest in urban graph of Natal.
+     - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week12/kruskal_natal.ipynb): **Kruskal-POI**: reference to be considered in the project.
