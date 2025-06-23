@@ -121,3 +121,12 @@ The DCA aims to train professionals capable of designing and developing computer
 
 - U2T3: Applying Kruskal's Algorithm to Points of Interest in Natal's Urban Graph.
      - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week12/kruskal_natal.ipynb): **Kruskal-POI**: reference to be considered in the project.
+
+
+**Week 13**  
+- [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week13/Hubs.pdf) **Hubs**: key centrality metrics and illustrative case studies.  
+    - Eccentricity, Diameter, Periphery, Radius, and Center  
+    - Degree, Closeness, Betweenness, and Eigenvector Centrality  
+    - Centrality distributions and interpretation  
+    - Core decomposition and its relevance  
+- [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week13/Hubs.ipynb) **Notebook**: practical exploration of centrality measures
