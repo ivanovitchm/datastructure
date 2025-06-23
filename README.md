@@ -129,4 +129,4 @@ The DCA aims to train professionals capable of designing and developing computer
     - Degree, Closeness, Betweenness, and Eigenvector Centrality  
     - Centrality distributions and interpretation  
     - Core decomposition and its relevance  
-- [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week13/Hubs.ipynb) **Notebook**: practical exploration of centrality measures
+- [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week13/Hubs.ipynb) **Hands on**: practical exploration of centrality measures
