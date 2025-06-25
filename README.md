@@ -137,7 +137,7 @@ The DCA aims to train professionals capable of designing and developing computer
     - Collecting data from a snowballing process
     - Truncate and eliminate duplicates
     - Exploring the network data
-    - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_06/Wikipedia.ipynb) Wikipedia pages network
+    - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week14/Wikipedia.ipynb) Wikipedia pages network
 
 - Gephi: The Open Graph Viz Platform
     - A brief overview about Gephi  [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/6d7f83dfc4f84b66abb8690288732094?sid=6a4fa5a6-0156-49b2-b9b5-def3ae749a8e)
