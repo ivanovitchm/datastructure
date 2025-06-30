@@ -152,5 +152,5 @@ The DCA aims to train professionals capable of designing and developing computer
 - Final Project
     -  [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week14/Final_Project.ipynb) Notebook with the final project description and source code to generate the network under study.
     - [![.txt](https://img.shields.io/badge/nodes-txt-blue)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week14/GraphTest_nodes.txt) Nodes file
-    - ![.txt](https://img.shields.io/badge/edges-txt-blue)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week14/GraphTest_edges.txt) Edges file
+    - [ß![.txt](https://img.shields.io/badge/edges-txt-blue)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week14/GraphTest_edges.txt) Edges file
     
