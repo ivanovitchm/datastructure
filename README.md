@@ -148,3 +148,9 @@ The DCA aims to train professionals capable of designing and developing computer
     - Renderize, export the network, and highlight a community [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/109e2e4a596e4ecaa723d3b225f2b0c2?sid=a62dfa83-33df-4381-8e8d-9b775be5e877)
     - Deploy the network into an HTML page [![Open in Loom](https://img.shields.io/badge/webpage-open%20here-green)]( https://ivanovitchm.github.io/netdeploy/network) [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/71a93423f50247bebae0bc3ef3b9eb28?sid=2d4cb63f-c7ad-4177-9d6e-a0e607abafde)
     - Another way to publish your network to the web using Retina and Gephisto [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/72526380751c43f98c87f95910eb35ed?sid=fbe7b938-61e9-45cb-a9a0-0ce8906f1355)
+
+- Final Project
+    -  [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week14/Final_Project.ipynb) Notebook with the final project description and source code to generate the network under study.
+    - [![.txt](https://img.shields.io/badge/nodes-txt-blue)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week14/GraphTest_nodes.txt) Nodes file
+    - ![.txt](https://img.shields.io/badge/edges-txt-blue)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week14/GraphTest_edges.txt) Edges file
+    
