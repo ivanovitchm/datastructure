@@ -43,5 +43,6 @@ The DCA aims to train professionals capable of designing and developing computer
 - [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week02/lesson03.pdf) **Network Fundamentals II**: Probability, extended graphs, matrices, degree and representation.
     - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week02/lesson03.ipynb) Extended graphs and representation using networkx tool.
     - :books: Further reading: chapters 7, 8, 9 of the book [The Atlas For The Aspiring Network Scientist](https://www.networkatlas.eu/).
-
-
+- Case study
+    - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week02/case_study.ipynb) Co-authorship network.
+    - [![ZIP](https://img.shields.io/badge/-Download%20ZIP-2C3E50?style=flat-square&logo=7zip)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week02/basedados.zip) Dataset.
