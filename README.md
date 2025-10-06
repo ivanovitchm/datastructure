@@ -56,3 +56,9 @@ The DCA aims to train professionals capable of designing and developing computer
 **Week 04**
 - [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week04/week04.pdf) **Small World Cont.**: Paths, Distances, Connected Components, Clustering Coefficient, Social Distance and Six Degrees of Separation
     - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week04/walks_paths_and_distances.ipynb) Paths, Walks and Distances
+
+**Week 05**
+- [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week05/dijsktra.pdf)  **Classical Algorithms: Dijsktra**: Shortest path algorithm 
+    - You will learn: a) Explain how the Dijkstra algorithm works. b) Understand the algorithm’s time complexity.
+    - Ready to practice?
+        - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week05/dijsktra.ipynb): **Dijsktra**: Implement the algorithm both with and without path reconstruction.
