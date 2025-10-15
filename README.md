@@ -71,3 +71,5 @@ The DCA aims to train professionals capable of designing and developing computer
     - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week05/MinHeap.ipynb) **MinHeap Implementation and Testing**: Interactive Jupyter Notebook that includes the full implementation of a Min-Heap class in Python, along with detailed unit tests to validate correctness and ensure that the min-heap property is preserved after each operation.
     - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week05/dijsktra_min_heap.ipynb): **Min-Heap**: an implementation of Dijkstra's algorithm using a min-heap, with and without path reconstruction. 
 
+**Week 06**
+- [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week06/challenger.ipynb) **Classical Algorithsm Challenge I:** Dijsktra vs Min-Heap Dijsktra
