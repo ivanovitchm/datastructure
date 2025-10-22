@@ -73,3 +73,23 @@ The DCA aims to train professionals capable of designing and developing computer
 
 **Week 06**
 - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week06/challenge.ipynb) **Classical Algorithms Challenge I:** Dijsktra vs Min-Heap Dijsktra
+
+
+**Week 07**
+- [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week07/week07.pdf) **A\* Algorithm**: Introduction to the A* algorithm, combining Dijkstra's search with heuristic-based guidance. Key concepts:
+    - Combines **Dijkstra** (guarantees cheapest path) and **Greedy search** (guides exploration).
+    - Heuristics:
+        - **Euclidean**: for local planar maps.
+        - **Great-circle**: for large geographical distances.
+        - **Manhattan**: for grid-like networks.
+    - A* process:
+        1. Start at source node.
+        2. For each neighbor, compute:
+            - \( g \): actual cost.
+            - \( h \): heuristic estimate.
+            - \( f = g + h \).
+        3. Use priority queue (lowest \( f \) first).
+        4. Repeat until reaching the goal.
+    - Visual flow:  
+      `Start → [g + h] → expand node → update queue → repeat → Goal`
+- [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week07/Astar.ipynb) **A\* Implementation**: Jupyter Notebook with A* implementation using NetworkX and OSMnx, applying different heuristics to real urban graphs.
