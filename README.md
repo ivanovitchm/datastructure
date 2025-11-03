@@ -100,3 +100,6 @@ The DCA aims to train professionals capable of designing and developing computer
     - Ready to practice?
         - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week08/Kruskal.ipynb): **Kruskal**: Implement the minimum spanning tree algorithm.
         - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week08/kruskal_natal.ipynb): **Kruskal-POI**: A practical example using mst and OSMnx.
+
+**Week 09**
+- [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week09/challenge9.ipynb) **Practical Challenge:** A star and  Minimum Spanning Tree applied to Urban Networks
