@@ -103,3 +103,12 @@ The DCA aims to train professionals capable of designing and developing computer
 
 **Week 09**
 - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week09/challenge9.ipynb) **Practical Challenge:** A star and  Minimum Spanning Tree applied to Urban Networks
+
+
+**Week 10**  
+- [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week10/Hubs.pdf) **Hubs**: key centrality metrics and illustrative case studies.  
+    - Eccentricity, Diameter, Periphery, Radius, and Center  
+    - Degree, Closeness, Betweenness, and Eigenvector Centrality  
+    - Centrality distributions and interpretation  
+    - Core decomposition and its relevance  
+- [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week10/Hubs.ipynb) **Hands on**: practical exploration of centrality measures
