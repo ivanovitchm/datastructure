@@ -112,3 +112,21 @@ The DCA aims to train professionals capable of designing and developing computer
     - Centrality distributions and interpretation  
     - Core decomposition and its relevance  
 - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week10/Hubs.ipynb) **Hands on**: practical exploration of centrality measures
+
+**Week 11**
+- Case Study 01: Wikipedia pages
+    - Building a networking from Wikipedia pages 
+    - Collecting data from a snowballing process
+    - Truncate and eliminate duplicates
+    - Exploring the network data
+    - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week11/Wikipedia.ipynb) Wikipedia pages network
+
+- Gephi: The Open Graph Viz Platform
+    - A brief overview about Gephi  [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/6d7f83dfc4f84b66abb8690288732094?sid=6a4fa5a6-0156-49b2-b9b5-def3ae749a8e)
+    - Quick start [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/61623ee4ed9948b9a9a97ed22de6e910?sid=6fe2767d-0450-4803-aede-3db0def97b1e)
+    - Using layouts [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/d2d08189c32143ebb1ea5bb612ab1a4d?sid=1560527d-04ad-401f-991e-8f6ec7017890)
+    - Node and network measures [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/ca4049c9502e4c4cb3c6768323b5565f?sid=deaed86c-0481-44c2-8473-8a91a4e4d07f)
+    - Visualize and filtering nodes and communities [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/3e2c90775f54419cba165e28229b3ad3?sid=d441254b-57ae-4483-9ef8-12d86bea3f85)
+    - Renderize, export the network, and highlight a community [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/109e2e4a596e4ecaa723d3b225f2b0c2?sid=a62dfa83-33df-4381-8e8d-9b775be5e877)
+    - Deploy the network into an HTML page [![Open in Loom](https://img.shields.io/badge/webpage-open%20here-green)]( https://ivanovitchm.github.io/netdeploy/network) [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/71a93423f50247bebae0bc3ef3b9eb28?sid=2d4cb63f-c7ad-4177-9d6e-a0e607abafde)
+    - Another way to publish your network to the web using Retina and Gephisto [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/72526380751c43f98c87f95910eb35ed?sid=fbe7b938-61e9-45cb-a9a0-0ce8906f1355)
