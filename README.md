@@ -52,8 +52,7 @@ The DCA aims to train professionals capable of designing and developing computer
     - Collect data through a snowballing (BFS-like) exploration process  
     - Clean the dataset by truncating expansion depth and removing duplicates  
     - Explore structural properties of the resulting network (e.g., degree distribution, connectivity)
-    - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week03/Wikipedia.ipynb)  
-  **Wikipedia Pages Network Notebook**
+    - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week03/Wikipedia.ipynb) Wikipedia Pages Network Notebook
 
 
 
