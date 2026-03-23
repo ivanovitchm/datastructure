@@ -42,3 +42,18 @@ The DCA aims to train professionals capable of designing and developing computer
 - [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week02/lesson03.pdf) **Network Fundamentals II**: Probability, extended graphs, matrices, degree and representation.
     - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week02/lesson03.ipynb) Extended graphs and representation using networkx tool.
     - :books: Further reading: chapters 7, 8, 9 of the book [The Atlas For The Aspiring Network Scientist](https://www.networkatlas.eu/).
+
+**Week 03**
+
+- [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week03/Lecture05.pdf)  
+  **Small-World Networks**: This week introduces fundamental concepts in network science, including small-world phenomena. The lecture explores how these properties influence the structure and dynamics of real-world networks.
+    - In this case study, you will construct and analyze a real-world network derived from Wikipedia pages using a snowball sampling approach.
+    - Build a graph from Wikipedia pages starting from a seed node  
+    - Collect data through a snowballing (BFS-like) exploration process  
+    - Clean the dataset by truncating expansion depth and removing duplicates  
+    - Explore structural properties of the resulting network (e.g., degree distribution, connectivity)
+    - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week03/Wikipedia.ipynb)  
+  **Wikipedia Pages Network Notebook**
+
+
+
