@@ -52,6 +52,13 @@ The DCA aims to train professionals capable of designing and developing computer
     - Clean the dataset by truncating expansion depth and removing duplicates  
     - Explore structural properties of the resulting network (e.g., degree distribution, connectivity)
     - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week03/Wikipedia.ipynb) **Wikipedia Pages Network Notebook**
+- [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week03/Lecture06.pdf) **Small World**: Paths, Distances, Connected Components, Clustering Coefficient, Friends of Friends
+    - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week03/walks.ipynb) Paths, Walks and Distances
+    - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week03/connected.ipynb) Connected Components (Giant, WCC, SCC)
+    - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week03/clustering.ipynb) Clustering Coeficient
+
+
+
 
 
 
