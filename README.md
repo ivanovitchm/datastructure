@@ -58,6 +58,19 @@ The DCA aims to train professionals capable of designing and developing computer
     - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week03/clustering.ipynb) Clustering Coeficient
 
 
+**Week 04**
+
+ - Project 01
+
+
+**Week 05**
+
+- [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week05/Hubs.pdf) **Hubs**: key centrality metrics and illustrative case studies.  
+    - Eccentricity, Diameter, Periphery, Radius, and Center  
+    - Degree, Closeness, Betweenness, and Eigenvector Centrality  
+    - Centrality distributions and interpretation  
+- [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week05/Hubs.ipynb) **Hands on**: practical exploration of centrality measures
+
 
 
 
