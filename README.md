@@ -87,4 +87,4 @@ The DCA aims to train professionals capable of designing and developing computer
     - Deploy the network into an HTML page [![Open in Loom](https://img.shields.io/badge/webpage-open%20here-green)]( https://ivanovitchm.github.io/netdeploy/network) [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/71a93423f50247bebae0bc3ef3b9eb28?sid=2d4cb63f-c7ad-4177-9d6e-a0e607abafde)
     - Another way to publish your network to the web using Retina and Gephisto [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/72526380751c43f98c87f95910eb35ed?sid=fbe7b938-61e9-45cb-a9a0-0ce8906f1355)
 - Graph GeoSpatial Data Science (2GDS)
-    -[osmnx](https://github.com/gboeing/osmnx)
+    - [osmnx](https://github.com/gboeing/osmnx)
