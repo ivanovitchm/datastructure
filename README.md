@@ -90,4 +90,8 @@ The DCA aims to train professionals capable of designing and developing computer
     - [osmnx](https://github.com/gboeing/osmnx) - OpenStreetMaps Network X
         - First read the [Getting Started](https://osmnx.readthedocs.io/en/stable/getting-started.html) guide for an introduction to the package and FAQ.
         - Then work through the [Examples Gallery](https://github.com/gboeing/osmnx-examples) for step-by-step tutorials and sample code.
+    - Advanced steps (optional)
+        - [City2Graph](https://github.com/c2g-dev/city2graph) - Transform geospatial relations into graphs for Graph Neural Networks and network analysis
+        - [LLM Knowledge Bases](https://x.com/karpathy/status/2039805659525644595) Karpathy's idea about using LLMs to build personal knowledge bases.
+        - [Graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill
 
