@@ -95,3 +95,6 @@ The DCA aims to train professionals capable of designing and developing computer
     - [LLM Knowledge Bases](https://x.com/karpathy/status/2039805659525644595) Karpathy's idea about using LLMs to build personal knowledge bases.
     - [Graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill
 
+**Week 07**
+
+- [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week07/project2.ipynb) **Project 02**: Structural analysis of Urban Networks using OSMnx, NetworkX and Gephi
