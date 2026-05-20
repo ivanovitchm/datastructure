@@ -106,7 +106,7 @@ The DCA aims to train professionals capable of designing and developing computer
     - You will learn: a) Explain how the Dijkstra algorithm works. b) Understand the algorithm’s time complexity.
     - Ready to practice?
         - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week08/dijsktra.ipynb): **Dijsktra**: Implement the algorithm both with and without path reconstruction.
-- [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week08/week08.pdf) **Heap Structures and Time Complexity**: This lesson explores Min-Heap data structures, focusing on their array representation and the behavior of the main operations such as insert, remove, and peek.
+- [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week08/MinHeap.pdf) **Heap Structures and Time Complexity**: This lesson explores Min-Heap data structures, focusing on their array representation and the behavior of the main operations such as insert, remove, and peek.
     - Topics covered include:
         - Properties of a Min-Heap and array-based implementation
         - Understanding parent and child index calculations
