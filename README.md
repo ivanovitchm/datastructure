@@ -115,7 +115,7 @@ The DCA aims to train professionals capable of designing and developing computer
     - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week08/MinHeap.ipynb) **MinHeap Implementation and Testing**: Interactive Jupyter Notebook that includes the full implementation of a Min-Heap class in Python, along with detailed unit tests to validate correctness and ensure that the min-heap property is preserved after each operation.
     - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week08/dijsktra_min_heap.ipynb): **Min-Heap**: an implementation of Dijkstra's algorithm using a min-heap, with and without path reconstruction. 
 
-**Week 09**
+**Week 09a**
 - [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week09/Week09.pdf) **A\* Algorithm**: Introduction to the A* algorithm, combining Dijkstra's search with heuristic-based guidance. Key concepts:
     - Combines **Dijkstra** (guarantees cheapest path) and **Greedy search** (guides exploration).
     - Heuristics:
@@ -133,3 +133,12 @@ The DCA aims to train professionals capable of designing and developing computer
     - Visual flow:  
       `Start → [g + h] → expand node → update queue → repeat → Goal`
 - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week09/Astar.ipynb) **A\* Implementation**: Jupyter Notebook with A* implementation using NetworkX and OSMnx, applying different heuristics to real urban graphs.
+
+
+**Week 09b**
+
+- [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week09/Kruskal.pdf) **Classical Algorithms - Kruskal**: Minimum Spanning Tree  
+    - You will learn: a) Explain how the minimum spanning tree Kruskal's algorithm works. b) Understand the algorithm’s time complexity.
+    - Ready to practice?
+        - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week09/Kruskal.ipynb): **Kruskal**: Implement the minimum spanning tree algorithm.
+        - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week09/kruskal_natal.ipynb): **Kruskal-POI**: A practical example using mst and OSMnx.
