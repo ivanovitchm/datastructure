@@ -33,4 +33,3 @@ The DCA aims to train professionals capable of designing and developing computer
         - GitHub Education Pro: Get access to the GitHub Education Pro pack by visiting [GitHub Education](https://education.github.com/pack)
     - 📖 Learning Resources 
         - GitHub Learning Game: Check out the interactive Git learning game at [GitHub Learning Game](https://learngitbranching.js.org/)
-        - Basic Python: Enhance your Python skills through the [Kaggle Python course](https://www.kaggle.com/learn/python).
