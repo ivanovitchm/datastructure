@@ -33,3 +33,10 @@ The DCA aims to train professionals capable of designing and developing computer
         - GitHub Education Pro: Get access to the GitHub Education Pro pack by visiting [GitHub Education](https://education.github.com/pack)
     - 📖 Learning Resources 
         - GitHub Learning Game: Check out the interactive Git learning game at [GitHub Learning Game](https://learngitbranching.js.org/)
+
+**Week 02**
+- [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week02/lesson02.pdf) **From Real-World Systems to Networks**: Learn how real-world systems can be modeled as networks. We introduce the basic elements of a graph, explore different types of networks, and discuss applications involving social networks, transportation, temporal networks, and knowledge graphs.
+    - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week02/NetworkElements01.ipynb) **Hands-on — Modeling Networks with NetworkX**: Build, inspect, and manipulate graphs in Python. Practice graph representations, node and edge attributes, directed graphs, multigraphs, degree and neighborhood analysis, connectivity, and modeling decisions through guided examples and exercises.
+    - :books: **Further Reading & Practice**:
+        - Chapters **2, 3, 6, and 7** of [The Atlas for the Aspiring Network Scientist](https://www.networkatlas.eu/).
+        - [NetworkX Documentation](https://networkx.org/)
