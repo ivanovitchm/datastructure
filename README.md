@@ -40,3 +40,6 @@ The DCA aims to train professionals capable of designing and developing computer
     - :books: **Further Reading & Practice**:
         - Chapters **2, 3, 6, and 7** of [The Atlas for the Aspiring Network Scientist](https://www.networkatlas.eu/).
         - [NetworkX Documentation](https://networkx.org/)
+- [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week02/lesson03.pdf) **Network Fundamentals II**: Extended graphs, density and sparsity, subnetworks, degree, degree distribution, and network representation.
+    - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week02/lesson03.ipynb) Exploring graph types, multilayer networks, density, subnetworks, degree, and adjacency matrices using NetworkX.
+    - :books: Further reading: chapters 7, 8, and 9 of the book [The Atlas For The Aspiring Network Scientist](https://www.networkatlas.eu/).
