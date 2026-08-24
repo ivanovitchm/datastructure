@@ -43,3 +43,14 @@ The DCA aims to train professionals capable of designing and developing computer
 - [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week02/lesson03.pdf) **Network Fundamentals II**: Extended graphs, density and sparsity, subnetworks, degree, degree distribution, and network representation.
     - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week02/lesson03.ipynb) Exploring graph types, multilayer networks, density, subnetworks, degree, and adjacency matrices using NetworkX.
     - :books: Further reading: chapters 7, 8, and 9 of the book [The Atlas For The Aspiring Network Scientist](https://www.networkatlas.eu/).
+
+**Week 03**
+- [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week03/lesson04.pdf) **Small-World Networks and Graph Traversal**: Introduction to the small-world phenomenon through classical examples such as Milgram's experiment, the Erdős number, and the Oracle of Bacon. The lecture connects these concepts to graph traversal and shortest-path reasoning, with particular emphasis on Breadth-First Search (BFS) and Depth-First Search (DFS).
+    - **Case Study — Wikipedia Network:** Construction and structural analysis of a directed network of Wikipedia pages using a snowball sampling strategy.
+        - Compare BFS and DFS in terms of exploration strategy, frontier size, memory requirements, and path discovery.
+        - Construct a directed network from Wikipedia pages starting from a predefined seed node.
+        - Collect pages through a BFS-based snowball sampling process and analyze the growth of successive network layers.
+        - Preprocess the network by handling duplicate nodes, self-loops, and sampling artifacts.
+        - Examine the degree distribution and distinguish the network core from its low-degree fringe.
+        - Analyze node relevance through indegree and outdegree and discuss the impact of the sampling strategy on the observed network structure.
+        - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week03/wikipedia.ipynb) **Wikipedia Network — BFS-Based Sampling and Structural Analysis**
