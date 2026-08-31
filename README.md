@@ -54,3 +54,21 @@ The DCA aims to train professionals capable of designing and developing computer
         - Examine the degree distribution and distinguish the network core from its low-degree fringe.
         - Analyze node relevance through indegree and outdegree and discuss the impact of the sampling strategy on the observed network structure.
         - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week03/wikipedia.ipynb) **Wikipedia Network — BFS-Based Sampling and Structural Analysis**
+
+**Week 04**
+- [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week04/lesson05.pdf) **Network Navigation and Local Structure**:** This lesson moves beyond graph representation to explore how nodes can be reached, how distances are measured, how connected regions emerge, and how local relationships form triangles and clusters.
+    - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week04/practice.ipynb) **Hands-on — Paths, Components, and Clustering**
+        - Walks, trails, paths, and powers of the adjacency matrix
+        - Shortest paths in directed, undirected, weighted, and unweighted networks
+        - Average shortest-path length, diameter, and global efficiency
+        - Connected components and the Giant Connected Component (GCC)
+        - Weakly and Strongly Connected Components (WCC and SCC)
+        - Triangles, clustering coefficient, and the friend-of-a-friend principle
+        - Practical applications using NetworkX and real-world network examples
+    - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week04/dataviz.ipynb) **Advanced Network Visualization with nxviz**
+        - The nxviz grammar: node tables, edge tables, grouping, sorting, and visual encodings
+        - Arc, Circos, Matrix, Hive, and geographic plots
+        - Mapping node and edge attributes to color, size, transparency, and line width
+        - Revealing communities, hubs, bridges, and structural patterns
+        - Combining nxviz layouts with Matplotlib and Plotly
+        - Designing deterministic and publication-ready network visualizations
