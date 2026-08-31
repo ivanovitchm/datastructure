@@ -56,7 +56,7 @@ The DCA aims to train professionals capable of designing and developing computer
         - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week03/wikipedia.ipynb) **Wikipedia Network — BFS-Based Sampling and Structural Analysis**
 
 **Week 04**
-- [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week04/lesson05.pdf) **Network Navigation and Local Structure**:** This lesson moves beyond graph representation to explore how nodes can be reached, how distances are measured, how connected regions emerge, and how local relationships form triangles and clusters.
+- [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week04/lesson05.pdf) **Network Navigation and Local Structure**: This lesson moves beyond graph representation to explore how nodes can be reached, how distances are measured, how connected regions emerge, and how local relationships form triangles and clusters.
     - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week04/practice.ipynb) **Hands-on — Paths, Components, and Clustering**
         - Walks, trails, paths, and powers of the adjacency matrix
         - Shortest paths in directed, undirected, weighted, and unweighted networks
