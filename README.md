@@ -72,3 +72,8 @@ The DCA aims to train professionals capable of designing and developing computer
         - Revealing communities, hubs, bridges, and structural patterns
         - Combining nxviz layouts with Matplotlib and Plotly
         - Designing deterministic and publication-ready network visualizations
+- [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week04/lesson06.pdf) **Hubs and Centrality Measures**: Introduction to node importance in networks through eccentricity, diameter, radius, center, and classical centrality measures such as degree, closeness, betweenness, and eigenvector centrality. 
+    - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week04/hubs.ipynb) **Hands-on — Hubs and Centrality Analysis**
+        - Compute and compare centrality measures with NetworkX
+        - Analyze centrality distributions and node rankings
+        - Explore the structural role of hubs in real-world networks
