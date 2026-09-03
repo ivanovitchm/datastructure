@@ -77,3 +77,13 @@ The DCA aims to train professionals capable of designing and developing computer
         - Compute and compare centrality measures with NetworkX
         - Analyze centrality distributions and node rankings
         - Explore the structural role of hubs in real-world networks
+
+**Week 05**
+- [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week05/lesson07.pdf) **Hubs (cont.) - Core Decomposition**: Move beyond degree-based notions of importance and explore the internal organization of networks through k-core decomposition. Introduce k-core, k-shell, core number, degeneracy, and the idea of recursively peeling a network to reveal its structural core.
+    - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week05/lesson07.ipynb) **Hands-on — Core Decomposition with NetworkX**:
+        - Reconstruct and progressively peel a network to understand how k-cores and k-shells emerge
+        - Compute and interpret `core_number`, `k_core`, `k_shell`, `k_crust`, `k_corona`, `onion_layers`, and `k_truss`.
+        - Compare node degree with core membership and investigate why hubs are not necessarily part of the innermost core.
+        - Apply core decomposition to a real-world SocioPatterns contact network and identify its innermost core.
+        - Analyze degree, centrality distributions, empirical CDFs, and bivariate relationships across different k-shells.
+        - Explore scientific collaboration networks and investigate how researchers are organized across structural layers.
