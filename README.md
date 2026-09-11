@@ -87,6 +87,7 @@ The DCA aims to train professionals capable of designing and developing computer
         - Apply core decomposition to a real-world SocioPatterns contact network and identify its innermost core.
         - Analyze degree, centrality distributions, empirical CDFs, and bivariate relationships across different k-shells.
         - Explore scientific collaboration networks and investigate how researchers are organized across structural layers.
+    - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week05/case_study.ipynb) **Case Study**: software maintenance.
 - Gephi: The Open Graph Viz Platform
     - A brief overview about Gephi  [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/6d7f83dfc4f84b66abb8690288732094?sid=6a4fa5a6-0156-49b2-b9b5-def3ae749a8e)
     - Quick start [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/61623ee4ed9948b9a9a97ed22de6e910?sid=6fe2767d-0450-4803-aede-3db0def97b1e)
