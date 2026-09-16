@@ -97,3 +97,21 @@ The DCA aims to train professionals capable of designing and developing computer
     - Renderize, export the network, and highlight a community [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/109e2e4a596e4ecaa723d3b225f2b0c2?sid=a62dfa83-33df-4381-8e8d-9b775be5e877)
     - Deploy the network into an HTML page [![Open in Loom](https://img.shields.io/badge/webpage-open%20here-green)]( https://ivanovitchm.github.io/netdeploy/network) [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/71a93423f50247bebae0bc3ef3b9eb28?sid=2d4cb63f-c7ad-4177-9d6e-a0e607abafde)
     - Another way to publish your network to the web using Retina and Gephisto [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/72526380751c43f98c87f95910eb35ed?sid=fbe7b938-61e9-45cb-a9a0-0ce8906f1355)
+
+
+**Week 06**
+- [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week06/lesson08.pdf) **From Text to Networks - Named-Entity Co-occurrence**: A fourth way to build a network, from raw text. Co-occurrence networks are introduced as one-mode projections of a bipartite units × items graph, with the incidence matrix and BᵀB, the clique artifact of projections, and Jaccard normalization. Named-entity recognition (spaCy) is used strictly as a tool behind a one-function contract, and the lesson is organized around Gestalt principles (whole before parts, figure and ground, similarity, common fate).
+    - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week06/lesson08.ipynb) **Hands-on — From Text to Networks with NetworkX and spaCy**
+        - Slice, extract, link: units (chapter, paragraph, sentence, document), items (named entities), and co-occurrence as a bipartite projection, built three equivalent ways (pairs per unit, BᵀB, `bipartite.weighted_projected_graph`)
+        - The window decides the network: density, clustering, components, and even which pair looks closest
+        - NER as a tool with a one-function contract; what it gets wrong (sentence-initial noise, wrong types, unresolved identity) and why the network depends on spans, not on types
+        - From mentions to nodes: normalization, alias dictionary, automatic sieve, and why node contraction and projection do not commute
+        - **Case Study — *Dom Casmurro*** (Machado de Assis, NLTK corpus): chapters as units, weighted layout, strength vs degree, weighted betweenness, backbone by weight threshold, chapter/paragraph/sentence windows on fixed positions, the invisible first-person narrator, and what the missing edges say about the chronology
+        - **Case Study — *A Semana*** (244 dated chronicles, 1892–1900): document-level bipartite graph, the clique artifact and its effect on density and k-core, count vs Jaccard weights (Jaccard as an alias detector), typed nodes (PER/LOC/ORG/MISC), yearly networks and a heatmap as a news barometer
+        - Challenges: three solved (sparse BᵀB, the sentence-block window curve, swapping NER for a gazetteer) and three open (temporal character network, another novel and the narrator problem, Wikipedia with links as entity resolution)
+    - :books: **Further Reading & Practice**:
+        - Chapter 6 (bipartite networks and one-mode projections) of [Newman, Networks](https://global.oup.com/academic/product/networks-9780198805090?cc=br&lang=en&).
+        - The chapters on bipartite networks, projections, and network backboning of [The Atlas for the Aspiring Network Scientist](https://www.networkatlas.eu/).
+        - Labatut, V. and Bost, X. (2019). [Extraction and analysis of fictional character networks: a survey](https://doi.org/10.1145/3344548). *ACM Computing Surveys*, 52(5).
+        - Knuth, D. E. (1993). *The Stanford GraphBase*, the source of `nx.les_miserables_graph()`.
+        - [spaCy: named entities](https://spacy.io/usage/linguistic-features#named-entities) and the [NLTK `machado` corpus](https://www.nltk.org/nltk_data/) (Machado de Assis, public domain).
