@@ -115,3 +115,9 @@ The DCA aims to train professionals capable of designing and developing computer
         - Labatut, V. and Bost, X. (2019). [Extraction and analysis of fictional character networks: a survey](https://doi.org/10.1145/3344548). *ACM Computing Surveys*, 52(5).
         - Knuth, D. E. (1993). *The Stanford GraphBase*, the source of `nx.les_miserables_graph()`.
         - [spaCy: named entities](https://spacy.io/usage/linguistic-features#named-entities) and the [NLTK `machado` corpus](https://www.nltk.org/nltk_data/) (Machado de Assis, public domain).
+
+**Week 07**
+- [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week07/Week07.pdf)  **Classical Algorithms: Dijsktra**: Shortest path algorithm 
+    - You will learn: a) Explain how the Dijkstra algorithm works. b) Understand the algorithm’s time complexity.
+    - Ready to practice?
+        - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week07/dijsktra.ipynb): **Dijsktra**: Implement the algorithm both with and without path reconstruction.
